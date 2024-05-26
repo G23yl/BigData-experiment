@@ -1,0 +1,2756 @@
+{'url'} -> {'cite'}
+{'cite'} -> {'url'}
+{'url'} -> {'jpg'}
+{'jpg'} -> {'url'}
+{'like'} -> {'jpg'}
+{'jpg'} -> {'like'}
+{'words'} -> {'english'}
+{'english'} -> {'words'}
+{'www'} -> {'http'}
+{'http'} -> {'www'}
+{'references'} -> {'people'}
+{'people'} -> {'references'}
+{'title'} -> {'references'}
+{'references'} -> {'title'}
+{'http'} -> {'cite'}
+{'cite'} -> {'http'}
+{'people'} -> {'jpg'}
+{'jpg'} -> {'people'}
+{'https'} -> {'http'}
+{'http'} -> {'https'}
+{'thumb'} -> {'https'}
+{'https'} -> {'thumb'}
+{'web'} -> {'title'}
+{'title'} -> {'web'}
+{'web'} -> {'archive'}
+{'archive'} -> {'web'}
+{'thumb'} -> {'right'}
+{'right'} -> {'thumb'}
+{'thumb'} -> {'like'}
+{'like'} -> {'thumb'}
+{'url'} -> {'people'}
+{'people'} -> {'url'}
+{'title'} -> {'http'}
+{'http'} -> {'title'}
+{'thumb'} -> {'one'}
+{'one'} -> {'thumb'}
+{'people'} -> {'pages'}
+{'pages'} -> {'people'}
+{'pages'} -> {'jpg'}
+{'jpg'} -> {'pages'}
+{'web'} -> {'https'}
+{'https'} -> {'web'}
+{'web'} -> {'pages'}
+{'pages'} -> {'web'}
+{'people'} -> {'one'}
+{'one'} -> {'people'}
+{'www'} -> {'jpg'}
+{'jpg'} -> {'www'}
+{'date'} -> {'cite'}
+{'cite'} -> {'date'}
+{'www'} -> {'archive'}
+{'archive'} -> {'www'}
+{'https'} -> {'cite'}
+{'cite'} -> {'https'}
+{'http'} -> {'date'}
+{'date'} -> {'http'}
+{'web'} -> {'one'}
+{'one'} -> {'web'}
+{'people'} -> {'date'}
+{'date'} -> {'people'}
+{'thumb'} -> {'references'}
+{'references'} -> {'thumb'}
+{'title'} -> {'thumb'}
+{'thumb'} -> {'title'}
+{'one'} -> {'https'}
+{'https'} -> {'one'}
+{'https'} -> {'archive'}
+{'archive'} -> {'https'}
+{'thumb'} -> {'different'}
+{'different'} -> {'thumb'}
+{'url'} -> {'title'}
+{'title'} -> {'url'}
+{'references'} -> {'https'}
+{'https'} -> {'references'}
+{'web'} -> {'date'}
+{'date'} -> {'web'}
+{'references'} -> {'pages'}
+{'pages'} -> {'references'}
+{'url'} -> {'archive'}
+{'archive'} -> {'url'}
+{'one'} -> {'like'}
+{'like'} -> {'one'}
+{'title'} -> {'cite'}
+{'cite'} -> {'title'}
+{'www'} -> {'pages'}
+{'pages'} -> {'www'}
+{'title'} -> {'jpg'}
+{'jpg'} -> {'title'}
+{'pages'} -> {'one'}
+{'one'} -> {'pages'}
+{'people'} -> {'different'}
+{'different'} -> {'people'}
+{'references'} -> {'like'}
+{'like'} -> {'references'}
+{'www'} -> {'people'}
+{'people'} -> {'www'}
+{'references'} -> {'one'}
+{'one'} -> {'references'}
+{'web'} -> {'references'}
+{'references'} -> {'web'}
+{'pages'} -> {'date'}
+{'date'} -> {'pages'}
+{'one'} -> {'date'}
+{'date'} -> {'one'}
+{'www'} -> {'one'}
+{'one'} -> {'www'}
+{'url'} -> {'https'}
+{'https'} -> {'url'}
+{'url'} -> {'pages'}
+{'pages'} -> {'url'}
+{'references'} -> {'date'}
+{'date'} -> {'references'}
+{'jpg'} -> {'https'}
+{'https'} -> {'jpg'}
+{'people'} -> {'https'}
+{'https'} -> {'people'}
+{'www'} -> {'date'}
+{'date'} -> {'www'}
+{'title'} -> {'pages'}
+{'pages'} -> {'title'}
+{'www'} -> {'web'}
+{'web'} -> {'www'}
+{'https'} -> {'date'}
+{'date'} -> {'https'}
+{'title'} -> {'people'}
+{'people'} -> {'title'}
+{'url'} -> {'one'}
+{'one'} -> {'url'}
+{'one'} -> {'different'}
+{'different'} -> {'one'}
+{'web'} -> {'http'}
+{'http'} -> {'web'}
+{'people'} -> {'like'}
+{'like'} -> {'people'}
+{'www'} -> {'title'}
+{'title'} -> {'www'}
+{'url'} -> {'date'}
+{'date'} -> {'url'}
+{'web'} -> {'url'}
+{'url'} -> {'web'}
+{'title'} -> {'date'}
+{'date'} -> {'title'}
+{'jpg'} -> {'date'}
+{'date'} -> {'jpg'}
+{'thumb'} -> {'cite'}
+{'cite'} -> {'thumb'}
+{'date'} -> {'archive'}
+{'archive'} -> {'date'}
+{'thumb'} -> {'jpg'}
+{'jpg'} -> {'thumb'}
+{'pages'} -> {'https'}
+{'https'} -> {'pages'}
+{'url'} -> {'references'}
+{'references'} -> {'url'}
+{'references'} -> {'http'}
+{'http'} -> {'references'}
+{'web'} -> {'thumb'}
+{'thumb'} -> {'web'}
+{'www'} -> {'https'}
+{'https'} -> {'www'}
+{'people'} -> {'cite'}
+{'cite'} -> {'people'}
+{'www'} -> {'url'}
+{'url'} -> {'www'}
+{'thumb'} -> {'pages'}
+{'pages'} -> {'thumb'}
+{'web'} -> {'cite'}
+{'cite'} -> {'web'}
+{'web'} -> {'jpg'}
+{'jpg'} -> {'web'}
+{'url'} -> {'http'}
+{'http'} -> {'url'}
+{'thumb'} -> {'people'}
+{'people'} -> {'thumb'}
+{'title'} -> {'https'}
+{'https'} -> {'title'}
+{'english'} -> {'basic'}
+{'basic'} -> {'english'}
+{'www'} -> {'thumb'}
+{'thumb'} -> {'www'}
+{'pages'} -> {'cite'}
+{'cite'} -> {'pages'}
+{'one'} -> {'cite'}
+{'cite'} -> {'one'}
+{'one'} -> {'jpg'}
+{'jpg'} -> {'one'}
+{'thumb'} -> {'date'}
+{'date'} -> {'thumb'}
+{'references'} -> {'cite'}
+{'cite'} -> {'references'}
+{'references'} -> {'jpg'}
+{'jpg'} -> {'references'}
+{'title'} -> {'one'}
+{'one'} -> {'title'}
+{'web'} -> {'people'}
+{'people'} -> {'web'}
+{'www'} -> {'cite'}
+{'cite'} -> {'www'}
+{'www'} -> {'references'}
+{'references'} -> {'www'}
+{'url'} -> {'thumb'}
+{'thumb'} -> {'url'}
+{'people'} -> {'english'}
+{'english'} -> {'people'}
+{'url', 'http'} -> {'cite'}
+{'cite'} -> {'url', 'http'}
+{'url', 'cite'} -> {'http'}
+{'http'} -> {'url', 'cite'}
+{'http', 'cite'} -> {'url'}
+{'url'} -> {'http', 'cite'}
+{'people', 'url'} -> {'cite'}
+{'cite'} -> {'people', 'url'}
+{'url', 'cite'} -> {'people'}
+{'people'} -> {'url', 'cite'}
+{'people', 'cite'} -> {'url'}
+{'url'} -> {'people', 'cite'}
+{'date', 'url'} -> {'cite'}
+{'cite'} -> {'date', 'url'}
+{'url', 'cite'} -> {'date'}
+{'date'} -> {'url', 'cite'}
+{'date', 'cite'} -> {'url'}
+{'url'} -> {'date', 'cite'}
+{'url', 'https'} -> {'cite'}
+{'cite'} -> {'url', 'https'}
+{'url', 'cite'} -> {'https'}
+{'https'} -> {'url', 'cite'}
+{'https', 'cite'} -> {'url'}
+{'url'} -> {'https', 'cite'}
+{'url', 'title'} -> {'cite'}
+{'cite'} -> {'url', 'title'}
+{'url', 'cite'} -> {'title'}
+{'title'} -> {'url', 'cite'}
+{'title', 'cite'} -> {'url'}
+{'url'} -> {'title', 'cite'}
+{'one', 'url'} -> {'cite'}
+{'cite'} -> {'one', 'url'}
+{'url', 'cite'} -> {'one'}
+{'one'} -> {'url', 'cite'}
+{'one', 'cite'} -> {'url'}
+{'url'} -> {'one', 'cite'}
+{'web', 'url'} -> {'cite'}
+{'cite'} -> {'web', 'url'}
+{'web', 'cite'} -> {'url'}
+{'url'} -> {'web', 'cite'}
+{'url', 'cite'} -> {'web'}
+{'web'} -> {'url', 'cite'}
+{'url', 'thumb'} -> {'cite'}
+{'cite'} -> {'url', 'thumb'}
+{'url', 'cite'} -> {'thumb'}
+{'thumb'} -> {'url', 'cite'}
+{'thumb', 'cite'} -> {'url'}
+{'url'} -> {'thumb', 'cite'}
+{'references', 'url'} -> {'cite'}
+{'cite'} -> {'references', 'url'}
+{'url', 'cite'} -> {'references'}
+{'references'} -> {'url', 'cite'}
+{'references', 'cite'} -> {'url'}
+{'url'} -> {'references', 'cite'}
+{'www', 'url'} -> {'cite'}
+{'cite'} -> {'www', 'url'}
+{'www', 'cite'} -> {'url'}
+{'url'} -> {'www', 'cite'}
+{'url', 'cite'} -> {'www'}
+{'www'} -> {'url', 'cite'}
+{'url', 'jpg'} -> {'https'}
+{'https'} -> {'url', 'jpg'}
+{'url', 'https'} -> {'jpg'}
+{'jpg'} -> {'url', 'https'}
+{'https', 'jpg'} -> {'url'}
+{'url'} -> {'https', 'jpg'}
+{'like', 'thumb'} -> {'jpg'}
+{'jpg'} -> {'like', 'thumb'}
+{'thumb', 'jpg'} -> {'like'}
+{'like'} -> {'thumb', 'jpg'}
+{'like', 'jpg'} -> {'thumb'}
+{'thumb'} -> {'like', 'jpg'}
+{'www', 'http'} -> {'cite'}
+{'cite'} -> {'www', 'http'}
+{'www', 'cite'} -> {'http'}
+{'http'} -> {'www', 'cite'}
+{'http', 'cite'} -> {'www'}
+{'www'} -> {'http', 'cite'}
+{'www', 'https'} -> {'http'}
+{'http'} -> {'www', 'https'}
+{'www', 'http'} -> {'https'}
+{'https'} -> {'www', 'http'}
+{'https', 'http'} -> {'www'}
+{'www'} -> {'https', 'http'}
+{'www', 'title'} -> {'http'}
+{'http'} -> {'www', 'title'}
+{'www', 'http'} -> {'title'}
+{'title'} -> {'www', 'http'}
+{'http', 'title'} -> {'www'}
+{'www'} -> {'http', 'title'}
+{'www', 'http'} -> {'date'}
+{'date'} -> {'www', 'http'}
+{'date', 'www'} -> {'http'}
+{'http'} -> {'date', 'www'}
+{'date', 'http'} -> {'www'}
+{'www'} -> {'date', 'http'}
+{'web', 'www'} -> {'http'}
+{'http'} -> {'web', 'www'}
+{'www', 'http'} -> {'web'}
+{'web'} -> {'www', 'http'}
+{'web', 'http'} -> {'www'}
+{'www'} -> {'web', 'http'}
+{'references', 'www'} -> {'http'}
+{'http'} -> {'references', 'www'}
+{'www', 'http'} -> {'references'}
+{'references'} -> {'www', 'http'}
+{'references', 'http'} -> {'www'}
+{'www'} -> {'references', 'http'}
+{'www', 'url'} -> {'http'}
+{'http'} -> {'www', 'url'}
+{'www', 'http'} -> {'url'}
+{'url'} -> {'www', 'http'}
+{'url', 'http'} -> {'www'}
+{'www'} -> {'url', 'http'}
+{'references', 'title'} -> {'people'}
+{'people'} -> {'references', 'title'}
+{'people', 'title'} -> {'references'}
+{'references'} -> {'people', 'title'}
+{'references', 'people'} -> {'title'}
+{'title'} -> {'references', 'people'}
+{'references', 'url'} -> {'people'}
+{'people'} -> {'references', 'url'}
+{'people', 'url'} -> {'references'}
+{'references'} -> {'people', 'url'}
+{'references', 'people'} -> {'url'}
+{'url'} -> {'references', 'people'}
+{'references', 'people'} -> {'date'}
+{'date'} -> {'references', 'people'}
+{'references', 'date'} -> {'people'}
+{'people'} -> {'references', 'date'}
+{'date', 'people'} -> {'references'}
+{'references'} -> {'date', 'people'}
+{'references', 'people'} -> {'https'}
+{'https'} -> {'references', 'people'}
+{'references', 'https'} -> {'people'}
+{'people'} -> {'references', 'https'}
+{'people', 'https'} -> {'references'}
+{'references'} -> {'people', 'https'}
+{'references', 'www'} -> {'people'}
+{'people'} -> {'references', 'www'}
+{'www', 'people'} -> {'references'}
+{'references'} -> {'www', 'people'}
+{'references', 'people'} -> {'www'}
+{'www'} -> {'references', 'people'}
+{'references', 'people'} -> {'cite'}
+{'cite'} -> {'references', 'people'}
+{'references', 'cite'} -> {'people'}
+{'people'} -> {'references', 'cite'}
+{'people', 'cite'} -> {'references'}
+{'references'} -> {'people', 'cite'}
+{'web', 'title'} -> {'references'}
+{'references'} -> {'web', 'title'}
+{'references', 'web'} -> {'title'}
+{'title'} -> {'references', 'web'}
+{'references', 'title'} -> {'web'}
+{'web'} -> {'references', 'title'}
+{'references', 'title'} -> {'http'}
+{'http'} -> {'references', 'title'}
+{'http', 'title'} -> {'references'}
+{'references'} -> {'http', 'title'}
+{'references', 'http'} -> {'title'}
+{'title'} -> {'references', 'http'}
+{'url', 'title'} -> {'references'}
+{'references'} -> {'url', 'title'}
+{'references', 'url'} -> {'title'}
+{'title'} -> {'references', 'url'}
+{'references', 'title'} -> {'url'}
+{'url'} -> {'references', 'title'}
+{'references', 'title'} -> {'https'}
+{'https'} -> {'references', 'title'}
+{'https', 'title'} -> {'references'}
+{'references'} -> {'https', 'title'}
+{'references', 'https'} -> {'title'}
+{'title'} -> {'references', 'https'}
+{'references', 'title'} -> {'cite'}
+{'cite'} -> {'references', 'title'}
+{'title', 'cite'} -> {'references'}
+{'references'} -> {'title', 'cite'}
+{'references', 'cite'} -> {'title'}
+{'title'} -> {'references', 'cite'}
+{'references', 'title'} -> {'one'}
+{'one'} -> {'references', 'title'}
+{'one', 'title'} -> {'references'}
+{'references'} -> {'one', 'title'}
+{'references', 'one'} -> {'title'}
+{'title'} -> {'references', 'one'}
+{'references', 'title'} -> {'date'}
+{'date'} -> {'references', 'title'}
+{'date', 'title'} -> {'references'}
+{'references'} -> {'date', 'title'}
+{'references', 'date'} -> {'title'}
+{'title'} -> {'references', 'date'}
+{'www', 'title'} -> {'references'}
+{'references'} -> {'www', 'title'}
+{'references', 'www'} -> {'title'}
+{'title'} -> {'references', 'www'}
+{'references', 'title'} -> {'www'}
+{'www'} -> {'references', 'title'}
+{'https', 'http'} -> {'cite'}
+{'cite'} -> {'https', 'http'}
+{'https', 'cite'} -> {'http'}
+{'http'} -> {'https', 'cite'}
+{'http', 'cite'} -> {'https'}
+{'https'} -> {'http', 'cite'}
+{'http', 'title'} -> {'cite'}
+{'cite'} -> {'http', 'title'}
+{'title', 'cite'} -> {'http'}
+{'http'} -> {'title', 'cite'}
+{'http', 'cite'} -> {'title'}
+{'title'} -> {'http', 'cite'}
+{'date', 'http'} -> {'cite'}
+{'cite'} -> {'date', 'http'}
+{'http', 'cite'} -> {'date'}
+{'date'} -> {'http', 'cite'}
+{'date', 'cite'} -> {'http'}
+{'http'} -> {'date', 'cite'}
+{'web', 'http'} -> {'cite'}
+{'cite'} -> {'web', 'http'}
+{'web', 'cite'} -> {'http'}
+{'http'} -> {'web', 'cite'}
+{'http', 'cite'} -> {'web'}
+{'web'} -> {'http', 'cite'}
+{'references', 'http'} -> {'cite'}
+{'cite'} -> {'references', 'http'}
+{'references', 'cite'} -> {'http'}
+{'http'} -> {'references', 'cite'}
+{'http', 'cite'} -> {'references'}
+{'references'} -> {'http', 'cite'}
+{'people', 'thumb'} -> {'jpg'}
+{'jpg'} -> {'people', 'thumb'}
+{'thumb', 'jpg'} -> {'people'}
+{'people'} -> {'thumb', 'jpg'}
+{'people', 'jpg'} -> {'thumb'}
+{'thumb'} -> {'people', 'jpg'}
+{'https', 'title'} -> {'http'}
+{'http'} -> {'https', 'title'}
+{'http', 'title'} -> {'https'}
+{'https'} -> {'http', 'title'}
+{'https', 'http'} -> {'title'}
+{'title'} -> {'https', 'http'}
+{'web', 'https'} -> {'http'}
+{'http'} -> {'web', 'https'}
+{'web', 'http'} -> {'https'}
+{'https'} -> {'web', 'http'}
+{'https', 'http'} -> {'web'}
+{'web'} -> {'https', 'http'}
+{'https', 'http'} -> {'date'}
+{'date'} -> {'https', 'http'}
+{'date', 'https'} -> {'http'}
+{'http'} -> {'date', 'https'}
+{'date', 'http'} -> {'https'}
+{'https'} -> {'date', 'http'}
+{'references', 'https'} -> {'http'}
+{'http'} -> {'references', 'https'}
+{'references', 'http'} -> {'https'}
+{'https'} -> {'references', 'http'}
+{'https', 'http'} -> {'references'}
+{'references'} -> {'https', 'http'}
+{'url', 'https'} -> {'http'}
+{'http'} -> {'url', 'https'}
+{'url', 'http'} -> {'https'}
+{'https'} -> {'url', 'http'}
+{'https', 'http'} -> {'url'}
+{'url'} -> {'https', 'http'}
+{'references', 'thumb'} -> {'https'}
+{'https'} -> {'references', 'thumb'}
+{'https', 'thumb'} -> {'references'}
+{'references'} -> {'https', 'thumb'}
+{'references', 'https'} -> {'thumb'}
+{'thumb'} -> {'references', 'https'}
+{'url', 'thumb'} -> {'https'}
+{'https'} -> {'url', 'thumb'}
+{'url', 'https'} -> {'thumb'}
+{'thumb'} -> {'url', 'https'}
+{'https', 'thumb'} -> {'url'}
+{'url'} -> {'https', 'thumb'}
+{'web', 'title'} -> {'http'}
+{'http'} -> {'web', 'title'}
+{'web', 'http'} -> {'title'}
+{'title'} -> {'web', 'http'}
+{'http', 'title'} -> {'web'}
+{'web'} -> {'http', 'title'}
+{'web', 'title'} -> {'https'}
+{'https'} -> {'web', 'title'}
+{'web', 'https'} -> {'title'}
+{'title'} -> {'web', 'https'}
+{'https', 'title'} -> {'web'}
+{'web'} -> {'https', 'title'}
+{'web', 'url'} -> {'title'}
+{'title'} -> {'web', 'url'}
+{'web', 'title'} -> {'url'}
+{'url'} -> {'web', 'title'}
+{'url', 'title'} -> {'web'}
+{'web'} -> {'url', 'title'}
+{'web', 'title'} -> {'date'}
+{'date'} -> {'web', 'title'}
+{'web', 'date'} -> {'title'}
+{'title'} -> {'web', 'date'}
+{'date', 'title'} -> {'web'}
+{'web'} -> {'date', 'title'}
+{'web', 'title'} -> {'cite'}
+{'cite'} -> {'web', 'title'}
+{'web', 'cite'} -> {'title'}
+{'title'} -> {'web', 'cite'}
+{'title', 'cite'} -> {'web'}
+{'web'} -> {'title', 'cite'}
+{'web', 'www'} -> {'title'}
+{'title'} -> {'web', 'www'}
+{'www', 'title'} -> {'web'}
+{'web'} -> {'www', 'title'}
+{'web', 'title'} -> {'www'}
+{'www'} -> {'web', 'title'}
+{'web', 'https'} -> {'archive'}
+{'archive'} -> {'web', 'https'}
+{'web', 'archive'} -> {'https'}
+{'https'} -> {'web', 'archive'}
+{'archive', 'https'} -> {'web'}
+{'web'} -> {'archive', 'https'}
+{'web', 'date'} -> {'archive'}
+{'archive'} -> {'web', 'date'}
+{'web', 'archive'} -> {'date'}
+{'date'} -> {'web', 'archive'}
+{'date', 'archive'} -> {'web'}
+{'web'} -> {'date', 'archive'}
+{'web', 'url'} -> {'archive'}
+{'archive'} -> {'web', 'url'}
+{'web', 'archive'} -> {'url'}
+{'url'} -> {'web', 'archive'}
+{'archive', 'url'} -> {'web'}
+{'web'} -> {'archive', 'url'}
+{'people', 'url'} -> {'date'}
+{'date'} -> {'people', 'url'}
+{'date', 'url'} -> {'people'}
+{'people'} -> {'date', 'url'}
+{'date', 'people'} -> {'url'}
+{'url'} -> {'date', 'people'}
+{'url', 'title'} -> {'people'}
+{'people'} -> {'url', 'title'}
+{'people', 'url'} -> {'title'}
+{'title'} -> {'people', 'url'}
+{'people', 'title'} -> {'url'}
+{'url'} -> {'people', 'title'}
+{'www', 'url'} -> {'people'}
+{'people'} -> {'www', 'url'}
+{'www', 'people'} -> {'url'}
+{'url'} -> {'www', 'people'}
+{'people', 'url'} -> {'www'}
+{'www'} -> {'people', 'url'}
+{'people', 'url'} -> {'https'}
+{'https'} -> {'people', 'url'}
+{'url', 'https'} -> {'people'}
+{'people'} -> {'url', 'https'}
+{'people', 'https'} -> {'url'}
+{'url'} -> {'people', 'https'}
+{'web', 'url'} -> {'people'}
+{'people'} -> {'web', 'url'}
+{'web', 'people'} -> {'url'}
+{'url'} -> {'web', 'people'}
+{'people', 'url'} -> {'web'}
+{'web'} -> {'people', 'url'}
+{'http', 'title'} -> {'date'}
+{'date'} -> {'http', 'title'}
+{'date', 'title'} -> {'http'}
+{'http'} -> {'date', 'title'}
+{'date', 'http'} -> {'title'}
+{'title'} -> {'date', 'http'}
+{'url', 'title'} -> {'http'}
+{'http'} -> {'url', 'title'}
+{'url', 'http'} -> {'title'}
+{'title'} -> {'url', 'http'}
+{'http', 'title'} -> {'url'}
+{'url'} -> {'http', 'title'}
+{'one', 'thumb'} -> {'jpg'}
+{'jpg'} -> {'one', 'thumb'}
+{'thumb', 'jpg'} -> {'one'}
+{'one'} -> {'thumb', 'jpg'}
+{'one', 'jpg'} -> {'thumb'}
+{'thumb'} -> {'one', 'jpg'}
+{'web', 'https'} -> {'cite'}
+{'cite'} -> {'web', 'https'}
+{'web', 'cite'} -> {'https'}
+{'https'} -> {'web', 'cite'}
+{'https', 'cite'} -> {'web'}
+{'web'} -> {'https', 'cite'}
+{'references', 'web'} -> {'https'}
+{'https'} -> {'references', 'web'}
+{'web', 'https'} -> {'references'}
+{'references'} -> {'web', 'https'}
+{'references', 'https'} -> {'web'}
+{'web'} -> {'references', 'https'}
+{'web', 'https'} -> {'date'}
+{'date'} -> {'web', 'https'}
+{'web', 'date'} -> {'https'}
+{'https'} -> {'web', 'date'}
+{'date', 'https'} -> {'web'}
+{'web'} -> {'date', 'https'}
+{'web', 'url'} -> {'https'}
+{'https'} -> {'web', 'url'}
+{'web', 'https'} -> {'url'}
+{'url'} -> {'web', 'https'}
+{'url', 'https'} -> {'web'}
+{'web'} -> {'url', 'https'}
+{'web', 'www'} -> {'https'}
+{'https'} -> {'web', 'www'}
+{'www', 'https'} -> {'web'}
+{'web'} -> {'www', 'https'}
+{'web', 'https'} -> {'www'}
+{'www'} -> {'web', 'https'}
+{'date', 'https'} -> {'cite'}
+{'cite'} -> {'date', 'https'}
+{'https', 'cite'} -> {'date'}
+{'date'} -> {'https', 'cite'}
+{'date', 'cite'} -> {'https'}
+{'https'} -> {'date', 'cite'}
+{'web', 'date'} -> {'cite'}
+{'cite'} -> {'web', 'date'}
+{'web', 'cite'} -> {'date'}
+{'date'} -> {'web', 'cite'}
+{'date', 'cite'} -> {'web'}
+{'web'} -> {'date', 'cite'}
+{'date', 'title'} -> {'cite'}
+{'cite'} -> {'date', 'title'}
+{'title', 'cite'} -> {'date'}
+{'date'} -> {'title', 'cite'}
+{'date', 'cite'} -> {'title'}
+{'title'} -> {'date', 'cite'}
+{'references', 'date'} -> {'cite'}
+{'cite'} -> {'references', 'date'}
+{'references', 'cite'} -> {'date'}
+{'date'} -> {'references', 'cite'}
+{'date', 'cite'} -> {'references'}
+{'references'} -> {'date', 'cite'}
+{'date', 'www'} -> {'cite'}
+{'cite'} -> {'date', 'www'}
+{'www', 'cite'} -> {'date'}
+{'date'} -> {'www', 'cite'}
+{'date', 'cite'} -> {'www'}
+{'www'} -> {'date', 'cite'}
+{'www', 'https'} -> {'archive'}
+{'archive'} -> {'www', 'https'}
+{'archive', 'www'} -> {'https'}
+{'https'} -> {'archive', 'www'}
+{'archive', 'https'} -> {'www'}
+{'www'} -> {'archive', 'https'}
+{'one', 'https'} -> {'cite'}
+{'cite'} -> {'one', 'https'}
+{'one', 'cite'} -> {'https'}
+{'https'} -> {'one', 'cite'}
+{'https', 'cite'} -> {'one'}
+{'one'} -> {'https', 'cite'}
+{'references', 'https'} -> {'cite'}
+{'cite'} -> {'references', 'https'}
+{'references', 'cite'} -> {'https'}
+{'https'} -> {'references', 'cite'}
+{'https', 'cite'} -> {'references'}
+{'references'} -> {'https', 'cite'}
+{'https', 'title'} -> {'cite'}
+{'cite'} -> {'https', 'title'}
+{'title', 'cite'} -> {'https'}
+{'https'} -> {'title', 'cite'}
+{'https', 'cite'} -> {'title'}
+{'title'} -> {'https', 'cite'}
+{'www', 'https'} -> {'cite'}
+{'cite'} -> {'www', 'https'}
+{'www', 'cite'} -> {'https'}
+{'https'} -> {'www', 'cite'}
+{'https', 'cite'} -> {'www'}
+{'www'} -> {'https', 'cite'}
+{'web', 'http'} -> {'date'}
+{'date'} -> {'web', 'http'}
+{'web', 'date'} -> {'http'}
+{'http'} -> {'web', 'date'}
+{'date', 'http'} -> {'web'}
+{'web'} -> {'date', 'http'}
+{'references', 'http'} -> {'date'}
+{'date'} -> {'references', 'http'}
+{'references', 'date'} -> {'http'}
+{'http'} -> {'references', 'date'}
+{'date', 'http'} -> {'references'}
+{'references'} -> {'date', 'http'}
+{'url', 'http'} -> {'date'}
+{'date'} -> {'url', 'http'}
+{'date', 'url'} -> {'http'}
+{'http'} -> {'date', 'url'}
+{'date', 'http'} -> {'url'}
+{'url'} -> {'date', 'http'}
+{'people', 'title'} -> {'date'}
+{'date'} -> {'people', 'title'}
+{'date', 'title'} -> {'people'}
+{'people'} -> {'date', 'title'}
+{'date', 'people'} -> {'title'}
+{'title'} -> {'date', 'people'}
+{'references', 'thumb'} -> {'jpg'}
+{'jpg'} -> {'references', 'thumb'}
+{'thumb', 'jpg'} -> {'references'}
+{'references'} -> {'thumb', 'jpg'}
+{'references', 'jpg'} -> {'thumb'}
+{'thumb'} -> {'references', 'jpg'}
+{'url', 'title'} -> {'thumb'}
+{'thumb'} -> {'url', 'title'}
+{'url', 'thumb'} -> {'title'}
+{'title'} -> {'url', 'thumb'}
+{'thumb', 'title'} -> {'url'}
+{'url'} -> {'thumb', 'title'}
+{'thumb', 'title'} -> {'cite'}
+{'cite'} -> {'thumb', 'title'}
+{'title', 'cite'} -> {'thumb'}
+{'thumb'} -> {'title', 'cite'}
+{'thumb', 'cite'} -> {'title'}
+{'title'} -> {'thumb', 'cite'}
+{'references', 'one'} -> {'https'}
+{'https'} -> {'references', 'one'}
+{'references', 'https'} -> {'one'}
+{'one'} -> {'references', 'https'}
+{'one', 'https'} -> {'references'}
+{'references'} -> {'one', 'https'}
+{'one', 'https'} -> {'date'}
+{'date'} -> {'one', 'https'}
+{'one', 'date'} -> {'https'}
+{'https'} -> {'one', 'date'}
+{'date', 'https'} -> {'one'}
+{'one'} -> {'date', 'https'}
+{'one', 'www'} -> {'https'}
+{'https'} -> {'one', 'www'}
+{'www', 'https'} -> {'one'}
+{'one'} -> {'www', 'https'}
+{'one', 'https'} -> {'www'}
+{'www'} -> {'one', 'https'}
+{'one', 'url'} -> {'https'}
+{'https'} -> {'one', 'url'}
+{'url', 'https'} -> {'one'}
+{'one'} -> {'url', 'https'}
+{'one', 'https'} -> {'url'}
+{'url'} -> {'one', 'https'}
+{'one', 'title'} -> {'https'}
+{'https'} -> {'one', 'title'}
+{'https', 'title'} -> {'one'}
+{'one'} -> {'https', 'title'}
+{'one', 'https'} -> {'title'}
+{'title'} -> {'one', 'https'}
+{'url', 'https'} -> {'archive'}
+{'archive'} -> {'url', 'https'}
+{'archive', 'url'} -> {'https'}
+{'https'} -> {'archive', 'url'}
+{'archive', 'https'} -> {'url'}
+{'url'} -> {'archive', 'https'}
+{'date', 'https'} -> {'archive'}
+{'archive'} -> {'date', 'https'}
+{'archive', 'https'} -> {'date'}
+{'date'} -> {'archive', 'https'}
+{'date', 'archive'} -> {'https'}
+{'https'} -> {'date', 'archive'}
+{'url', 'title'} -> {'https'}
+{'https'} -> {'url', 'title'}
+{'url', 'https'} -> {'title'}
+{'title'} -> {'url', 'https'}
+{'https', 'title'} -> {'url'}
+{'url'} -> {'https', 'title'}
+{'url', 'title'} -> {'one'}
+{'one'} -> {'url', 'title'}
+{'one', 'url'} -> {'title'}
+{'title'} -> {'one', 'url'}
+{'one', 'title'} -> {'url'}
+{'url'} -> {'one', 'title'}
+{'www', 'url'} -> {'title'}
+{'title'} -> {'www', 'url'}
+{'www', 'title'} -> {'url'}
+{'url'} -> {'www', 'title'}
+{'url', 'title'} -> {'www'}
+{'www'} -> {'url', 'title'}
+{'url', 'title'} -> {'date'}
+{'date'} -> {'url', 'title'}
+{'date', 'url'} -> {'title'}
+{'title'} -> {'date', 'url'}
+{'date', 'title'} -> {'url'}
+{'url'} -> {'date', 'title'}
+{'references', 'url'} -> {'https'}
+{'https'} -> {'references', 'url'}
+{'url', 'https'} -> {'references'}
+{'references'} -> {'url', 'https'}
+{'references', 'https'} -> {'url'}
+{'url'} -> {'references', 'https'}
+{'references', 'https'} -> {'date'}
+{'date'} -> {'references', 'https'}
+{'references', 'date'} -> {'https'}
+{'https'} -> {'references', 'date'}
+{'date', 'https'} -> {'references'}
+{'references'} -> {'date', 'https'}
+{'references', 'jpg'} -> {'https'}
+{'https'} -> {'references', 'jpg'}
+{'references', 'https'} -> {'jpg'}
+{'jpg'} -> {'references', 'https'}
+{'https', 'jpg'} -> {'references'}
+{'references'} -> {'https', 'jpg'}
+{'references', 'www'} -> {'https'}
+{'https'} -> {'references', 'www'}
+{'www', 'https'} -> {'references'}
+{'references'} -> {'www', 'https'}
+{'references', 'https'} -> {'www'}
+{'www'} -> {'references', 'https'}
+{'references', 'web'} -> {'date'}
+{'date'} -> {'references', 'web'}
+{'web', 'date'} -> {'references'}
+{'references'} -> {'web', 'date'}
+{'references', 'date'} -> {'web'}
+{'web'} -> {'references', 'date'}
+{'web', 'www'} -> {'date'}
+{'date'} -> {'web', 'www'}
+{'date', 'www'} -> {'web'}
+{'web'} -> {'date', 'www'}
+{'web', 'date'} -> {'www'}
+{'www'} -> {'web', 'date'}
+{'web', 'url'} -> {'date'}
+{'date'} -> {'web', 'url'}
+{'web', 'date'} -> {'url'}
+{'url'} -> {'web', 'date'}
+{'date', 'url'} -> {'web'}
+{'web'} -> {'date', 'url'}
+{'date', 'url'} -> {'archive'}
+{'archive'} -> {'date', 'url'}
+{'archive', 'url'} -> {'date'}
+{'date'} -> {'archive', 'url'}
+{'date', 'archive'} -> {'url'}
+{'url'} -> {'date', 'archive'}
+{'pages', 'title'} -> {'cite'}
+{'cite'} -> {'pages', 'title'}
+{'title', 'cite'} -> {'pages'}
+{'pages'} -> {'title', 'cite'}
+{'pages', 'cite'} -> {'title'}
+{'title'} -> {'pages', 'cite'}
+{'people', 'title'} -> {'cite'}
+{'cite'} -> {'people', 'title'}
+{'title', 'cite'} -> {'people'}
+{'people'} -> {'title', 'cite'}
+{'people', 'cite'} -> {'title'}
+{'title'} -> {'people', 'cite'}
+{'www', 'title'} -> {'cite'}
+{'cite'} -> {'www', 'title'}
+{'www', 'cite'} -> {'title'}
+{'title'} -> {'www', 'cite'}
+{'title', 'cite'} -> {'www'}
+{'www'} -> {'title', 'cite'}
+{'one', 'title'} -> {'cite'}
+{'cite'} -> {'one', 'title'}
+{'title', 'cite'} -> {'one'}
+{'one'} -> {'title', 'cite'}
+{'one', 'cite'} -> {'title'}
+{'title'} -> {'one', 'cite'}
+{'www', 'people'} -> {'https'}
+{'https'} -> {'www', 'people'}
+{'www', 'https'} -> {'people'}
+{'people'} -> {'www', 'https'}
+{'people', 'https'} -> {'www'}
+{'www'} -> {'people', 'https'}
+{'references', 'one'} -> {'date'}
+{'date'} -> {'references', 'one'}
+{'references', 'date'} -> {'one'}
+{'one'} -> {'references', 'date'}
+{'one', 'date'} -> {'references'}
+{'references'} -> {'one', 'date'}
+{'references', 'www'} -> {'one'}
+{'one'} -> {'references', 'www'}
+{'one', 'www'} -> {'references'}
+{'references'} -> {'one', 'www'}
+{'references', 'one'} -> {'www'}
+{'www'} -> {'references', 'one'}
+{'references', 'url'} -> {'one'}
+{'one'} -> {'references', 'url'}
+{'one', 'url'} -> {'references'}
+{'references'} -> {'one', 'url'}
+{'references', 'one'} -> {'url'}
+{'url'} -> {'references', 'one'}
+{'references', 'one'} -> {'cite'}
+{'cite'} -> {'references', 'one'}
+{'references', 'cite'} -> {'one'}
+{'one'} -> {'references', 'cite'}
+{'one', 'cite'} -> {'references'}
+{'references'} -> {'one', 'cite'}
+{'web', 'www'} -> {'references'}
+{'references'} -> {'web', 'www'}
+{'references', 'www'} -> {'web'}
+{'web'} -> {'references', 'www'}
+{'references', 'web'} -> {'www'}
+{'www'} -> {'references', 'web'}
+{'references', 'web'} -> {'http'}
+{'http'} -> {'references', 'web'}
+{'web', 'http'} -> {'references'}
+{'references'} -> {'web', 'http'}
+{'references', 'http'} -> {'web'}
+{'web'} -> {'references', 'http'}
+{'web', 'url'} -> {'references'}
+{'references'} -> {'web', 'url'}
+{'references', 'web'} -> {'url'}
+{'url'} -> {'references', 'web'}
+{'references', 'url'} -> {'web'}
+{'web'} -> {'references', 'url'}
+{'references', 'web'} -> {'cite'}
+{'cite'} -> {'references', 'web'}
+{'web', 'cite'} -> {'references'}
+{'references'} -> {'web', 'cite'}
+{'references', 'cite'} -> {'web'}
+{'web'} -> {'references', 'cite'}
+{'one', 'url'} -> {'date'}
+{'date'} -> {'one', 'url'}
+{'date', 'url'} -> {'one'}
+{'one'} -> {'date', 'url'}
+{'one', 'date'} -> {'url'}
+{'url'} -> {'one', 'date'}
+{'one', 'title'} -> {'date'}
+{'date'} -> {'one', 'title'}
+{'date', 'title'} -> {'one'}
+{'one'} -> {'date', 'title'}
+{'one', 'date'} -> {'title'}
+{'title'} -> {'one', 'date'}
+{'pages', 'url'} -> {'https'}
+{'https'} -> {'pages', 'url'}
+{'url', 'https'} -> {'pages'}
+{'pages'} -> {'url', 'https'}
+{'pages', 'https'} -> {'url'}
+{'url'} -> {'pages', 'https'}
+{'url', 'https'} -> {'date'}
+{'date'} -> {'url', 'https'}
+{'date', 'url'} -> {'https'}
+{'https'} -> {'date', 'url'}
+{'date', 'https'} -> {'url'}
+{'url'} -> {'date', 'https'}
+{'www', 'url'} -> {'https'}
+{'https'} -> {'www', 'url'}
+{'www', 'https'} -> {'url'}
+{'url'} -> {'www', 'https'}
+{'url', 'https'} -> {'www'}
+{'www'} -> {'url', 'https'}
+{'references', 'www'} -> {'date'}
+{'date'} -> {'references', 'www'}
+{'date', 'www'} -> {'references'}
+{'references'} -> {'date', 'www'}
+{'references', 'date'} -> {'www'}
+{'www'} -> {'references', 'date'}
+{'references', 'url'} -> {'date'}
+{'date'} -> {'references', 'url'}
+{'date', 'url'} -> {'references'}
+{'references'} -> {'date', 'url'}
+{'references', 'date'} -> {'url'}
+{'url'} -> {'references', 'date'}
+{'people', 'title'} -> {'https'}
+{'https'} -> {'people', 'title'}
+{'https', 'title'} -> {'people'}
+{'people'} -> {'https', 'title'}
+{'people', 'https'} -> {'title'}
+{'title'} -> {'people', 'https'}
+{'www', 'https'} -> {'date'}
+{'date'} -> {'www', 'https'}
+{'date', 'www'} -> {'https'}
+{'https'} -> {'date', 'www'}
+{'date', 'https'} -> {'www'}
+{'www'} -> {'date', 'https'}
+{'www', 'title'} -> {'date'}
+{'date'} -> {'www', 'title'}
+{'date', 'www'} -> {'title'}
+{'title'} -> {'date', 'www'}
+{'date', 'title'} -> {'www'}
+{'www'} -> {'date', 'title'}
+{'www', 'url'} -> {'date'}
+{'date'} -> {'www', 'url'}
+{'date', 'www'} -> {'url'}
+{'url'} -> {'date', 'www'}
+{'date', 'url'} -> {'www'}
+{'www'} -> {'date', 'url'}
+{'web', 'www'} -> {'url'}
+{'url'} -> {'web', 'www'}
+{'www', 'url'} -> {'web'}
+{'web'} -> {'www', 'url'}
+{'web', 'url'} -> {'www'}
+{'www'} -> {'web', 'url'}
+{'web', 'www'} -> {'cite'}
+{'cite'} -> {'web', 'www'}
+{'www', 'cite'} -> {'web'}
+{'web'} -> {'www', 'cite'}
+{'web', 'cite'} -> {'www'}
+{'www'} -> {'web', 'cite'}
+{'https', 'title'} -> {'date'}
+{'date'} -> {'https', 'title'}
+{'date', 'title'} -> {'https'}
+{'https'} -> {'date', 'title'}
+{'date', 'https'} -> {'title'}
+{'title'} -> {'date', 'https'}
+{'web', 'url'} -> {'http'}
+{'http'} -> {'web', 'url'}
+{'web', 'http'} -> {'url'}
+{'url'} -> {'web', 'http'}
+{'url', 'http'} -> {'web'}
+{'web'} -> {'url', 'http'}
+{'www', 'title'} -> {'https'}
+{'https'} -> {'www', 'title'}
+{'www', 'https'} -> {'title'}
+{'title'} -> {'www', 'https'}
+{'https', 'title'} -> {'www'}
+{'www'} -> {'https', 'title'}
+{'references', 'url'} -> {'http'}
+{'http'} -> {'references', 'url'}
+{'url', 'http'} -> {'references'}
+{'references'} -> {'url', 'http'}
+{'references', 'http'} -> {'url'}
+{'url'} -> {'references', 'http'}
+{'www', 'url'} -> {'references'}
+{'references'} -> {'www', 'url'}
+{'references', 'www'} -> {'url'}
+{'url'} -> {'references', 'www'}
+{'references', 'url'} -> {'www'}
+{'www'} -> {'references', 'url'}
+{'references', 'www'} -> {'cite'}
+{'cite'} -> {'references', 'www'}
+{'www', 'cite'} -> {'references'}
+{'references'} -> {'www', 'cite'}
+{'references', 'cite'} -> {'www'}
+{'www'} -> {'references', 'cite'}
+{'date', 'url', 'http'} -> {'cite'}
+{'cite'} -> {'date', 'url', 'http'}
+{'url', 'http', 'cite'} -> {'date'}
+{'date'} -> {'url', 'http', 'cite'}
+{'date', 'url', 'cite'} -> {'http'}
+{'http'} -> {'date', 'url', 'cite'}
+{'date', 'http', 'cite'} -> {'url'}
+{'url'} -> {'date', 'http', 'cite'}
+{'url', 'http'} -> {'date', 'cite'}
+{'date', 'url'} -> {'http', 'cite'}
+{'date', 'http'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'date', 'http'}
+{'http', 'cite'} -> {'date', 'url'}
+{'date', 'cite'} -> {'url', 'http'}
+{'url', 'https', 'http'} -> {'cite'}
+{'cite'} -> {'url', 'https', 'http'}
+{'url', 'https', 'cite'} -> {'http'}
+{'http'} -> {'url', 'https', 'cite'}
+{'url', 'http', 'cite'} -> {'https'}
+{'https'} -> {'url', 'http', 'cite'}
+{'https', 'http', 'cite'} -> {'url'}
+{'url'} -> {'https', 'http', 'cite'}
+{'url', 'https'} -> {'http', 'cite'}
+{'url', 'http'} -> {'https', 'cite'}
+{'https', 'http'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'https', 'http'}
+{'https', 'cite'} -> {'url', 'http'}
+{'http', 'cite'} -> {'url', 'https'}
+{'url', 'http', 'title'} -> {'cite'}
+{'cite'} -> {'url', 'http', 'title'}
+{'url', 'title', 'cite'} -> {'http'}
+{'http'} -> {'url', 'title', 'cite'}
+{'url', 'http', 'cite'} -> {'title'}
+{'title'} -> {'url', 'http', 'cite'}
+{'http', 'title', 'cite'} -> {'url'}
+{'url'} -> {'http', 'title', 'cite'}
+{'url', 'title'} -> {'http', 'cite'}
+{'url', 'http'} -> {'title', 'cite'}
+{'http', 'title'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'title', 'http'}
+{'title', 'cite'} -> {'url', 'http'}
+{'http', 'cite'} -> {'url', 'title'}
+{'web', 'url', 'http'} -> {'cite'}
+{'cite'} -> {'web', 'url', 'http'}
+{'web', 'url', 'cite'} -> {'http'}
+{'http'} -> {'web', 'url', 'cite'}
+{'web', 'http', 'cite'} -> {'url'}
+{'url'} -> {'web', 'http', 'cite'}
+{'url', 'http', 'cite'} -> {'web'}
+{'web'} -> {'url', 'http', 'cite'}
+{'web', 'url'} -> {'http', 'cite'}
+{'web', 'http'} -> {'url', 'cite'}
+{'url', 'http'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'url', 'http'}
+{'url', 'cite'} -> {'web', 'http'}
+{'http', 'cite'} -> {'web', 'url'}
+{'references', 'url', 'http'} -> {'cite'}
+{'cite'} -> {'references', 'url', 'http'}
+{'references', 'url', 'cite'} -> {'http'}
+{'http'} -> {'references', 'url', 'cite'}
+{'url', 'http', 'cite'} -> {'references'}
+{'references'} -> {'url', 'http', 'cite'}
+{'references', 'http', 'cite'} -> {'url'}
+{'url'} -> {'references', 'http', 'cite'}
+{'references', 'url'} -> {'http', 'cite'}
+{'url', 'http'} -> {'references', 'cite'}
+{'references', 'http'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'references', 'http'}
+{'references', 'cite'} -> {'url', 'http'}
+{'http', 'cite'} -> {'references', 'url'}
+{'www', 'url', 'http'} -> {'cite'}
+{'cite'} -> {'www', 'url', 'http'}
+{'www', 'url', 'cite'} -> {'http'}
+{'http'} -> {'www', 'url', 'cite'}
+{'www', 'http', 'cite'} -> {'url'}
+{'url'} -> {'www', 'http', 'cite'}
+{'url', 'http', 'cite'} -> {'www'}
+{'www'} -> {'url', 'http', 'cite'}
+{'www', 'url'} -> {'http', 'cite'}
+{'www', 'http'} -> {'url', 'cite'}
+{'url', 'http'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'url', 'http'}
+{'url', 'cite'} -> {'www', 'http'}
+{'http', 'cite'} -> {'www', 'url'}
+{'people', 'url', 'title'} -> {'cite'}
+{'cite'} -> {'people', 'url', 'title'}
+{'url', 'title', 'cite'} -> {'people'}
+{'people'} -> {'url', 'title', 'cite'}
+{'people', 'url', 'cite'} -> {'title'}
+{'title'} -> {'people', 'url', 'cite'}
+{'people', 'title', 'cite'} -> {'url'}
+{'url'} -> {'people', 'title', 'cite'}
+{'url', 'title'} -> {'people', 'cite'}
+{'people', 'url'} -> {'title', 'cite'}
+{'people', 'title'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'people', 'title'}
+{'title', 'cite'} -> {'people', 'url'}
+{'people', 'cite'} -> {'url', 'title'}
+{'references', 'people', 'url'} -> {'cite'}
+{'cite'} -> {'references', 'people', 'url'}
+{'references', 'url', 'cite'} -> {'people'}
+{'people'} -> {'references', 'url', 'cite'}
+{'people', 'url', 'cite'} -> {'references'}
+{'references'} -> {'people', 'url', 'cite'}
+{'references', 'people', 'cite'} -> {'url'}
+{'url'} -> {'references', 'people', 'cite'}
+{'references', 'url'} -> {'people', 'cite'}
+{'people', 'url'} -> {'references', 'cite'}
+{'references', 'people'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'references', 'people'}
+{'references', 'cite'} -> {'people', 'url'}
+{'people', 'cite'} -> {'references', 'url'}
+{'date', 'url', 'https'} -> {'cite'}
+{'cite'} -> {'date', 'url', 'https'}
+{'url', 'https', 'cite'} -> {'date'}
+{'date'} -> {'url', 'https', 'cite'}
+{'date', 'url', 'cite'} -> {'https'}
+{'https'} -> {'date', 'url', 'cite'}
+{'date', 'https', 'cite'} -> {'url'}
+{'url'} -> {'date', 'https', 'cite'}
+{'url', 'https'} -> {'date', 'cite'}
+{'date', 'url'} -> {'https', 'cite'}
+{'date', 'https'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'date', 'https'}
+{'https', 'cite'} -> {'date', 'url'}
+{'date', 'cite'} -> {'url', 'https'}
+{'date', 'url', 'title'} -> {'cite'}
+{'cite'} -> {'date', 'url', 'title'}
+{'url', 'title', 'cite'} -> {'date'}
+{'date'} -> {'url', 'title', 'cite'}
+{'date', 'url', 'cite'} -> {'title'}
+{'title'} -> {'date', 'url', 'cite'}
+{'date', 'title', 'cite'} -> {'url'}
+{'url'} -> {'date', 'title', 'cite'}
+{'url', 'title'} -> {'date', 'cite'}
+{'date', 'url'} -> {'title', 'cite'}
+{'date', 'title'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'date', 'title'}
+{'title', 'cite'} -> {'date', 'url'}
+{'date', 'cite'} -> {'url', 'title'}
+{'web', 'date', 'url'} -> {'cite'}
+{'cite'} -> {'web', 'date', 'url'}
+{'web', 'url', 'cite'} -> {'date'}
+{'date'} -> {'web', 'url', 'cite'}
+{'web', 'date', 'cite'} -> {'url'}
+{'url'} -> {'web', 'date', 'cite'}
+{'date', 'url', 'cite'} -> {'web'}
+{'web'} -> {'date', 'url', 'cite'}
+{'web', 'url'} -> {'date', 'cite'}
+{'web', 'date'} -> {'url', 'cite'}
+{'date', 'url'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'date', 'url'}
+{'url', 'cite'} -> {'web', 'date'}
+{'date', 'cite'} -> {'web', 'url'}
+{'references', 'date', 'url'} -> {'cite'}
+{'cite'} -> {'references', 'date', 'url'}
+{'references', 'url', 'cite'} -> {'date'}
+{'date'} -> {'references', 'url', 'cite'}
+{'date', 'url', 'cite'} -> {'references'}
+{'references'} -> {'date', 'url', 'cite'}
+{'references', 'date', 'cite'} -> {'url'}
+{'url'} -> {'references', 'date', 'cite'}
+{'references', 'url'} -> {'date', 'cite'}
+{'date', 'url'} -> {'references', 'cite'}
+{'references', 'date'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'references', 'date'}
+{'references', 'cite'} -> {'date', 'url'}
+{'date', 'cite'} -> {'references', 'url'}
+{'date', 'www', 'url'} -> {'cite'}
+{'cite'} -> {'date', 'www', 'url'}
+{'www', 'url', 'cite'} -> {'date'}
+{'date'} -> {'www', 'url', 'cite'}
+{'date', 'www', 'cite'} -> {'url'}
+{'url'} -> {'date', 'www', 'cite'}
+{'date', 'url', 'cite'} -> {'www'}
+{'www'} -> {'date', 'url', 'cite'}
+{'www', 'url'} -> {'date', 'cite'}
+{'date', 'www'} -> {'url', 'cite'}
+{'date', 'url'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'date', 'url'}
+{'url', 'cite'} -> {'date', 'www'}
+{'date', 'cite'} -> {'www', 'url'}
+{'url', 'https', 'title'} -> {'cite'}
+{'cite'} -> {'url', 'https', 'title'}
+{'url', 'title', 'cite'} -> {'https'}
+{'https'} -> {'url', 'title', 'cite'}
+{'url', 'https', 'cite'} -> {'title'}
+{'title'} -> {'url', 'https', 'cite'}
+{'https', 'title', 'cite'} -> {'url'}
+{'url'} -> {'https', 'title', 'cite'}
+{'url', 'title'} -> {'https', 'cite'}
+{'url', 'https'} -> {'title', 'cite'}
+{'https', 'title'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'https', 'title'}
+{'title', 'cite'} -> {'url', 'https'}
+{'https', 'cite'} -> {'url', 'title'}
+{'web', 'url', 'https'} -> {'cite'}
+{'cite'} -> {'web', 'url', 'https'}
+{'web', 'url', 'cite'} -> {'https'}
+{'https'} -> {'web', 'url', 'cite'}
+{'web', 'https', 'cite'} -> {'url'}
+{'url'} -> {'web', 'https', 'cite'}
+{'url', 'https', 'cite'} -> {'web'}
+{'web'} -> {'url', 'https', 'cite'}
+{'web', 'url'} -> {'https', 'cite'}
+{'web', 'https'} -> {'url', 'cite'}
+{'url', 'https'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'url', 'https'}
+{'url', 'cite'} -> {'web', 'https'}
+{'https', 'cite'} -> {'web', 'url'}
+{'references', 'url', 'https'} -> {'cite'}
+{'cite'} -> {'references', 'url', 'https'}
+{'references', 'url', 'cite'} -> {'https'}
+{'https'} -> {'references', 'url', 'cite'}
+{'url', 'https', 'cite'} -> {'references'}
+{'references'} -> {'url', 'https', 'cite'}
+{'references', 'https', 'cite'} -> {'url'}
+{'url'} -> {'references', 'https', 'cite'}
+{'references', 'url'} -> {'https', 'cite'}
+{'url', 'https'} -> {'references', 'cite'}
+{'references', 'https'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'references', 'https'}
+{'references', 'cite'} -> {'url', 'https'}
+{'https', 'cite'} -> {'references', 'url'}
+{'www', 'https', 'url'} -> {'cite'}
+{'cite'} -> {'www', 'https', 'url'}
+{'www', 'url', 'cite'} -> {'https'}
+{'https'} -> {'www', 'url', 'cite'}
+{'www', 'https', 'cite'} -> {'url'}
+{'url'} -> {'www', 'https', 'cite'}
+{'url', 'https', 'cite'} -> {'www'}
+{'www'} -> {'url', 'https', 'cite'}
+{'www', 'url'} -> {'https', 'cite'}
+{'www', 'https'} -> {'url', 'cite'}
+{'url', 'https'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'url', 'https'}
+{'url', 'cite'} -> {'www', 'https'}
+{'https', 'cite'} -> {'www', 'url'}
+{'one', 'url', 'title'} -> {'cite'}
+{'cite'} -> {'one', 'url', 'title'}
+{'url', 'title', 'cite'} -> {'one'}
+{'one'} -> {'url', 'title', 'cite'}
+{'one', 'url', 'cite'} -> {'title'}
+{'title'} -> {'one', 'url', 'cite'}
+{'one', 'title', 'cite'} -> {'url'}
+{'url'} -> {'one', 'title', 'cite'}
+{'url', 'title'} -> {'one', 'cite'}
+{'one', 'url'} -> {'title', 'cite'}
+{'one', 'title'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'one', 'title'}
+{'title', 'cite'} -> {'one', 'url'}
+{'one', 'cite'} -> {'url', 'title'}
+{'web', 'url', 'title'} -> {'cite'}
+{'cite'} -> {'web', 'url', 'title'}
+{'web', 'url', 'cite'} -> {'title'}
+{'title'} -> {'web', 'url', 'cite'}
+{'web', 'title', 'cite'} -> {'url'}
+{'url'} -> {'web', 'title', 'cite'}
+{'url', 'title', 'cite'} -> {'web'}
+{'web'} -> {'url', 'title', 'cite'}
+{'web', 'url'} -> {'title', 'cite'}
+{'web', 'title'} -> {'url', 'cite'}
+{'url', 'title'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'url', 'title'}
+{'url', 'cite'} -> {'web', 'title'}
+{'title', 'cite'} -> {'web', 'url'}
+{'url', 'thumb', 'title'} -> {'cite'}
+{'cite'} -> {'url', 'thumb', 'title'}
+{'url', 'title', 'cite'} -> {'thumb'}
+{'thumb'} -> {'url', 'title', 'cite'}
+{'url', 'thumb', 'cite'} -> {'title'}
+{'title'} -> {'url', 'thumb', 'cite'}
+{'thumb', 'title', 'cite'} -> {'url'}
+{'url'} -> {'thumb', 'title', 'cite'}
+{'url', 'title'} -> {'thumb', 'cite'}
+{'url', 'thumb'} -> {'title', 'cite'}
+{'thumb', 'title'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'title', 'thumb'}
+{'title', 'cite'} -> {'url', 'thumb'}
+{'thumb', 'cite'} -> {'url', 'title'}
+{'references', 'url', 'title'} -> {'cite'}
+{'cite'} -> {'references', 'url', 'title'}
+{'url', 'title', 'cite'} -> {'references'}
+{'references'} -> {'url', 'title', 'cite'}
+{'references', 'url', 'cite'} -> {'title'}
+{'title'} -> {'references', 'url', 'cite'}
+{'references', 'title', 'cite'} -> {'url'}
+{'url'} -> {'references', 'title', 'cite'}
+{'url', 'title'} -> {'references', 'cite'}
+{'references', 'url'} -> {'title', 'cite'}
+{'references', 'title'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'references', 'title'}
+{'title', 'cite'} -> {'references', 'url'}
+{'references', 'cite'} -> {'url', 'title'}
+{'www', 'url', 'title'} -> {'cite'}
+{'cite'} -> {'www', 'url', 'title'}
+{'www', 'url', 'cite'} -> {'title'}
+{'title'} -> {'www', 'url', 'cite'}
+{'www', 'title', 'cite'} -> {'url'}
+{'url'} -> {'www', 'title', 'cite'}
+{'url', 'title', 'cite'} -> {'www'}
+{'www'} -> {'url', 'title', 'cite'}
+{'www', 'url'} -> {'title', 'cite'}
+{'www', 'title'} -> {'url', 'cite'}
+{'url', 'title'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'url', 'title'}
+{'url', 'cite'} -> {'www', 'title'}
+{'title', 'cite'} -> {'www', 'url'}
+{'references', 'one', 'url'} -> {'cite'}
+{'cite'} -> {'references', 'one', 'url'}
+{'references', 'url', 'cite'} -> {'one'}
+{'one'} -> {'references', 'url', 'cite'}
+{'one', 'url', 'cite'} -> {'references'}
+{'references'} -> {'one', 'url', 'cite'}
+{'references', 'one', 'cite'} -> {'url'}
+{'url'} -> {'references', 'one', 'cite'}
+{'references', 'url'} -> {'one', 'cite'}
+{'one', 'url'} -> {'references', 'cite'}
+{'references', 'one'} -> {'url', 'cite'}
+{'url', 'cite'} -> {'references', 'one'}
+{'references', 'cite'} -> {'one', 'url'}
+{'one', 'cite'} -> {'references', 'url'}
+{'references', 'url', 'web'} -> {'cite'}
+{'cite'} -> {'references', 'url', 'web'}
+{'web', 'url', 'cite'} -> {'references'}
+{'references'} -> {'web', 'url', 'cite'}
+{'references', 'web', 'cite'} -> {'url'}
+{'url'} -> {'references', 'web', 'cite'}
+{'references', 'url', 'cite'} -> {'web'}
+{'web'} -> {'references', 'url', 'cite'}
+{'web', 'url'} -> {'references', 'cite'}
+{'references', 'web'} -> {'url', 'cite'}
+{'references', 'url'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'references', 'url'}
+{'url', 'cite'} -> {'references', 'web'}
+{'references', 'cite'} -> {'web', 'url'}
+{'web', 'www', 'url'} -> {'cite'}
+{'cite'} -> {'web', 'www', 'url'}
+{'web', 'www', 'cite'} -> {'url'}
+{'url'} -> {'web', 'www', 'cite'}
+{'www', 'url', 'cite'} -> {'web'}
+{'web'} -> {'www', 'url', 'cite'}
+{'web', 'url', 'cite'} -> {'www'}
+{'www'} -> {'web', 'url', 'cite'}
+{'web', 'www'} -> {'url', 'cite'}
+{'www', 'url'} -> {'web', 'cite'}
+{'web', 'url'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'web', 'url'}
+{'web', 'cite'} -> {'www', 'url'}
+{'url', 'cite'} -> {'web', 'www'}
+{'references', 'www', 'url'} -> {'cite'}
+{'cite'} -> {'references', 'www', 'url'}
+{'www', 'url', 'cite'} -> {'references'}
+{'references'} -> {'www', 'url', 'cite'}
+{'references', 'www', 'cite'} -> {'url'}
+{'url'} -> {'references', 'www', 'cite'}
+{'references', 'url', 'cite'} -> {'www'}
+{'www'} -> {'references', 'url', 'cite'}
+{'www', 'url'} -> {'references', 'cite'}
+{'references', 'www'} -> {'url', 'cite'}
+{'references', 'url'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'references', 'url'}
+{'url', 'cite'} -> {'references', 'www'}
+{'references', 'cite'} -> {'www', 'url'}
+{'www', 'http', 'title'} -> {'cite'}
+{'cite'} -> {'www', 'http', 'title'}
+{'www', 'title', 'cite'} -> {'http'}
+{'http'} -> {'www', 'title', 'cite'}
+{'www', 'http', 'cite'} -> {'title'}
+{'title'} -> {'www', 'http', 'cite'}
+{'http', 'title', 'cite'} -> {'www'}
+{'www'} -> {'http', 'title', 'cite'}
+{'www', 'title'} -> {'http', 'cite'}
+{'www', 'http'} -> {'title', 'cite'}
+{'http', 'title'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'title', 'http'}
+{'title', 'cite'} -> {'www', 'http'}
+{'http', 'cite'} -> {'www', 'title'}
+{'web', 'www', 'http'} -> {'cite'}
+{'cite'} -> {'web', 'www', 'http'}
+{'web', 'www', 'cite'} -> {'http'}
+{'http'} -> {'web', 'www', 'cite'}
+{'www', 'http', 'cite'} -> {'web'}
+{'web'} -> {'www', 'http', 'cite'}
+{'web', 'http', 'cite'} -> {'www'}
+{'www'} -> {'web', 'http', 'cite'}
+{'web', 'www'} -> {'http', 'cite'}
+{'www', 'http'} -> {'web', 'cite'}
+{'web', 'http'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'web', 'http'}
+{'web', 'cite'} -> {'www', 'http'}
+{'http', 'cite'} -> {'web', 'www'}
+{'references', 'www', 'http'} -> {'cite'}
+{'cite'} -> {'references', 'www', 'http'}
+{'references', 'www', 'cite'} -> {'http'}
+{'http'} -> {'references', 'www', 'cite'}
+{'www', 'http', 'cite'} -> {'references'}
+{'references'} -> {'www', 'http', 'cite'}
+{'references', 'http', 'cite'} -> {'www'}
+{'www'} -> {'references', 'http', 'cite'}
+{'references', 'www'} -> {'http', 'cite'}
+{'www', 'http'} -> {'references', 'cite'}
+{'references', 'http'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'references', 'http'}
+{'references', 'cite'} -> {'www', 'http'}
+{'http', 'cite'} -> {'references', 'www'}
+{'www', 'https', 'title'} -> {'http'}
+{'http'} -> {'www', 'https', 'title'}
+{'www', 'http', 'title'} -> {'https'}
+{'https'} -> {'www', 'http', 'title'}
+{'www', 'https', 'http'} -> {'title'}
+{'title'} -> {'www', 'https', 'http'}
+{'http', 'https', 'title'} -> {'www'}
+{'www'} -> {'http', 'https', 'title'}
+{'www', 'title'} -> {'https', 'http'}
+{'www', 'https'} -> {'title', 'http'}
+{'https', 'title'} -> {'www', 'http'}
+{'www', 'http'} -> {'https', 'title'}
+{'http', 'title'} -> {'www', 'https'}
+{'https', 'http'} -> {'www', 'title'}
+{'www', 'https', 'http'} -> {'date'}
+{'date'} -> {'www', 'https', 'http'}
+{'date', 'www', 'https'} -> {'http'}
+{'http'} -> {'date', 'www', 'https'}
+{'date', 'www', 'http'} -> {'https'}
+{'https'} -> {'date', 'www', 'http'}
+{'date', 'https', 'http'} -> {'www'}
+{'www'} -> {'date', 'https', 'http'}
+{'www', 'https'} -> {'date', 'http'}
+{'www', 'http'} -> {'date', 'https'}
+{'https', 'http'} -> {'date', 'www'}
+{'date', 'www'} -> {'https', 'http'}
+{'date', 'https'} -> {'www', 'http'}
+{'date', 'http'} -> {'www', 'https'}
+{'web', 'www', 'https'} -> {'http'}
+{'http'} -> {'web', 'www', 'https'}
+{'web', 'www', 'http'} -> {'https'}
+{'https'} -> {'web', 'www', 'http'}
+{'www', 'https', 'http'} -> {'web'}
+{'web'} -> {'www', 'https', 'http'}
+{'web', 'https', 'http'} -> {'www'}
+{'www'} -> {'web', 'https', 'http'}
+{'web', 'www'} -> {'https', 'http'}
+{'www', 'https'} -> {'web', 'http'}
+{'web', 'https'} -> {'www', 'http'}
+{'www', 'http'} -> {'web', 'https'}
+{'web', 'http'} -> {'www', 'https'}
+{'https', 'http'} -> {'web', 'www'}
+{'references', 'www', 'https'} -> {'http'}
+{'http'} -> {'references', 'www', 'https'}
+{'references', 'www', 'http'} -> {'https'}
+{'https'} -> {'references', 'www', 'http'}
+{'www', 'https', 'http'} -> {'references'}
+{'references'} -> {'www', 'https', 'http'}
+{'references', 'https', 'http'} -> {'www'}
+{'www'} -> {'references', 'https', 'http'}
+{'references', 'www'} -> {'https', 'http'}
+{'www', 'https'} -> {'references', 'http'}
+{'references', 'https'} -> {'www', 'http'}
+{'www', 'http'} -> {'references', 'https'}
+{'references', 'http'} -> {'www', 'https'}
+{'https', 'http'} -> {'references', 'www'}
+{'www', 'https', 'url'} -> {'http'}
+{'http'} -> {'www', 'https', 'url'}
+{'www', 'url', 'http'} -> {'https'}
+{'https'} -> {'www', 'url', 'http'}
+{'www', 'https', 'http'} -> {'url'}
+{'url'} -> {'www', 'https', 'http'}
+{'url', 'https', 'http'} -> {'www'}
+{'www'} -> {'url', 'https', 'http'}
+{'www', 'url'} -> {'https', 'http'}
+{'www', 'https'} -> {'url', 'http'}
+{'url', 'https'} -> {'www', 'http'}
+{'www', 'http'} -> {'url', 'https'}
+{'url', 'http'} -> {'www', 'https'}
+{'https', 'http'} -> {'www', 'url'}
+{'www', 'http', 'title'} -> {'date'}
+{'date'} -> {'www', 'http', 'title'}
+{'date', 'www', 'title'} -> {'http'}
+{'http'} -> {'date', 'www', 'title'}
+{'date', 'www', 'http'} -> {'title'}
+{'title'} -> {'date', 'www', 'http'}
+{'date', 'http', 'title'} -> {'www'}
+{'www'} -> {'date', 'http', 'title'}
+{'www', 'title'} -> {'date', 'http'}
+{'www', 'http'} -> {'date', 'title'}
+{'http', 'title'} -> {'date', 'www'}
+{'date', 'www'} -> {'title', 'http'}
+{'date', 'title'} -> {'www', 'http'}
+{'date', 'http'} -> {'www', 'title'}
+{'web', 'www', 'title'} -> {'http'}
+{'http'} -> {'web', 'www', 'title'}
+{'web', 'www', 'http'} -> {'title'}
+{'title'} -> {'web', 'www', 'http'}
+{'www', 'http', 'title'} -> {'web'}
+{'web'} -> {'www', 'http', 'title'}
+{'web', 'http', 'title'} -> {'www'}
+{'www'} -> {'web', 'http', 'title'}
+{'web', 'www'} -> {'title', 'http'}
+{'www', 'title'} -> {'web', 'http'}
+{'web', 'title'} -> {'www', 'http'}
+{'www', 'http'} -> {'web', 'title'}
+{'web', 'http'} -> {'www', 'title'}
+{'http', 'title'} -> {'web', 'www'}
+{'references', 'www', 'title'} -> {'http'}
+{'http'} -> {'references', 'www', 'title'}
+{'www', 'http', 'title'} -> {'references'}
+{'references'} -> {'www', 'http', 'title'}
+{'references', 'www', 'http'} -> {'title'}
+{'title'} -> {'references', 'www', 'http'}
+{'references', 'http', 'title'} -> {'www'}
+{'www'} -> {'references', 'http', 'title'}
+{'www', 'title'} -> {'references', 'http'}
+{'references', 'www'} -> {'title', 'http'}
+{'references', 'title'} -> {'www', 'http'}
+{'www', 'http'} -> {'references', 'title'}
+{'http', 'title'} -> {'references', 'www'}
+{'references', 'http'} -> {'www', 'title'}
+{'www', 'url', 'title'} -> {'http'}
+{'http'} -> {'www', 'url', 'title'}
+{'www', 'url', 'http'} -> {'title'}
+{'title'} -> {'www', 'url', 'http'}
+{'www', 'http', 'title'} -> {'url'}
+{'url'} -> {'www', 'http', 'title'}
+{'url', 'http', 'title'} -> {'www'}
+{'www'} -> {'url', 'http', 'title'}
+{'www', 'url'} -> {'title', 'http'}
+{'www', 'title'} -> {'url', 'http'}
+{'url', 'title'} -> {'www', 'http'}
+{'www', 'http'} -> {'url', 'title'}
+{'url', 'http'} -> {'www', 'title'}
+{'http', 'title'} -> {'www', 'url'}
+{'web', 'www', 'http'} -> {'date'}
+{'date'} -> {'web', 'www', 'http'}
+{'web', 'date', 'www'} -> {'http'}
+{'http'} -> {'web', 'date', 'www'}
+{'date', 'www', 'http'} -> {'web'}
+{'web'} -> {'date', 'www', 'http'}
+{'web', 'date', 'http'} -> {'www'}
+{'www'} -> {'web', 'date', 'http'}
+{'web', 'www'} -> {'date', 'http'}
+{'www', 'http'} -> {'web', 'date'}
+{'web', 'http'} -> {'date', 'www'}
+{'date', 'www'} -> {'web', 'http'}
+{'web', 'date'} -> {'www', 'http'}
+{'date', 'http'} -> {'web', 'www'}
+{'www', 'url', 'http'} -> {'date'}
+{'date'} -> {'www', 'url', 'http'}
+{'date', 'www', 'url'} -> {'http'}
+{'http'} -> {'date', 'www', 'url'}
+{'date', 'www', 'http'} -> {'url'}
+{'url'} -> {'date', 'www', 'http'}
+{'date', 'url', 'http'} -> {'www'}
+{'www'} -> {'date', 'url', 'http'}
+{'www', 'url'} -> {'date', 'http'}
+{'www', 'http'} -> {'date', 'url'}
+{'url', 'http'} -> {'date', 'www'}
+{'date', 'www'} -> {'url', 'http'}
+{'date', 'url'} -> {'www', 'http'}
+{'date', 'http'} -> {'www', 'url'}
+{'references', 'www', 'web'} -> {'http'}
+{'http'} -> {'references', 'www', 'web'}
+{'web', 'www', 'http'} -> {'references'}
+{'references'} -> {'web', 'www', 'http'}
+{'references', 'www', 'http'} -> {'web'}
+{'web'} -> {'references', 'www', 'http'}
+{'references', 'web', 'http'} -> {'www'}
+{'www'} -> {'references', 'web', 'http'}
+{'web', 'www'} -> {'references', 'http'}
+{'references', 'www'} -> {'web', 'http'}
+{'references', 'web'} -> {'www', 'http'}
+{'www', 'http'} -> {'references', 'web'}
+{'web', 'http'} -> {'references', 'www'}
+{'references', 'http'} -> {'web', 'www'}
+{'web', 'www', 'url'} -> {'http'}
+{'http'} -> {'web', 'www', 'url'}
+{'web', 'www', 'http'} -> {'url'}
+{'url'} -> {'web', 'www', 'http'}
+{'www', 'url', 'http'} -> {'web'}
+{'web'} -> {'www', 'url', 'http'}
+{'web', 'url', 'http'} -> {'www'}
+{'www'} -> {'web', 'url', 'http'}
+{'web', 'www'} -> {'url', 'http'}
+{'www', 'url'} -> {'web', 'http'}
+{'web', 'url'} -> {'www', 'http'}
+{'www', 'http'} -> {'web', 'url'}
+{'web', 'http'} -> {'www', 'url'}
+{'url', 'http'} -> {'web', 'www'}
+{'references', 'www', 'url'} -> {'http'}
+{'http'} -> {'references', 'www', 'url'}
+{'www', 'url', 'http'} -> {'references'}
+{'references'} -> {'www', 'url', 'http'}
+{'references', 'www', 'http'} -> {'url'}
+{'url'} -> {'references', 'www', 'http'}
+{'references', 'url', 'http'} -> {'www'}
+{'www'} -> {'references', 'url', 'http'}
+{'www', 'url'} -> {'references', 'http'}
+{'references', 'www'} -> {'url', 'http'}
+{'references', 'url'} -> {'www', 'http'}
+{'www', 'http'} -> {'references', 'url'}
+{'url', 'http'} -> {'references', 'www'}
+{'references', 'http'} -> {'www', 'url'}
+{'references', 'url', 'title'} -> {'people'}
+{'people'} -> {'references', 'url', 'title'}
+{'people', 'url', 'title'} -> {'references'}
+{'references'} -> {'people', 'url', 'title'}
+{'references', 'people', 'url'} -> {'title'}
+{'title'} -> {'references', 'people', 'url'}
+{'references', 'people', 'title'} -> {'url'}
+{'url'} -> {'references', 'people', 'title'}
+{'url', 'title'} -> {'references', 'people'}
+{'references', 'url'} -> {'people', 'title'}
+{'references', 'title'} -> {'people', 'url'}
+{'people', 'url'} -> {'references', 'title'}
+{'people', 'title'} -> {'references', 'url'}
+{'references', 'people'} -> {'url', 'title'}
+{'references', 'people', 'title'} -> {'cite'}
+{'cite'} -> {'references', 'people', 'title'}
+{'references', 'title', 'cite'} -> {'people'}
+{'people'} -> {'references', 'title', 'cite'}
+{'people', 'title', 'cite'} -> {'references'}
+{'references'} -> {'people', 'title', 'cite'}
+{'references', 'people', 'cite'} -> {'title'}
+{'title'} -> {'references', 'people', 'cite'}
+{'references', 'title'} -> {'people', 'cite'}
+{'people', 'title'} -> {'references', 'cite'}
+{'references', 'people'} -> {'title', 'cite'}
+{'title', 'cite'} -> {'references', 'people'}
+{'references', 'cite'} -> {'people', 'title'}
+{'people', 'cite'} -> {'references', 'title'}
+{'references', 'web', 'title'} -> {'http'}
+{'http'} -> {'references', 'web', 'title'}
+{'web', 'http', 'title'} -> {'references'}
+{'references'} -> {'web', 'http', 'title'}
+{'references', 'web', 'http'} -> {'title'}
+{'title'} -> {'references', 'web', 'http'}
+{'references', 'http', 'title'} -> {'web'}
+{'web'} -> {'references', 'http', 'title'}
+{'web', 'title'} -> {'references', 'http'}
+{'references', 'web'} -> {'title', 'http'}
+{'references', 'title'} -> {'web', 'http'}
+{'web', 'http'} -> {'references', 'title'}
+{'http', 'title'} -> {'references', 'web'}
+{'references', 'http'} -> {'web', 'title'}
+{'web', 'url', 'title'} -> {'references'}
+{'references'} -> {'web', 'url', 'title'}
+{'references', 'url', 'web'} -> {'title'}
+{'title'} -> {'references', 'url', 'web'}
+{'references', 'web', 'title'} -> {'url'}
+{'url'} -> {'references', 'web', 'title'}
+{'references', 'url', 'title'} -> {'web'}
+{'web'} -> {'references', 'url', 'title'}
+{'web', 'url'} -> {'references', 'title'}
+{'web', 'title'} -> {'references', 'url'}
+{'url', 'title'} -> {'references', 'web'}
+{'references', 'web'} -> {'url', 'title'}
+{'references', 'url'} -> {'web', 'title'}
+{'references', 'title'} -> {'web', 'url'}
+{'references', 'web', 'title'} -> {'https'}
+{'https'} -> {'references', 'web', 'title'}
+{'web', 'https', 'title'} -> {'references'}
+{'references'} -> {'web', 'https', 'title'}
+{'references', 'https', 'web'} -> {'title'}
+{'title'} -> {'references', 'https', 'web'}
+{'references', 'https', 'title'} -> {'web'}
+{'web'} -> {'references', 'https', 'title'}
+{'web', 'title'} -> {'references', 'https'}
+{'references', 'web'} -> {'https', 'title'}
+{'references', 'title'} -> {'web', 'https'}
+{'web', 'https'} -> {'references', 'title'}
+{'https', 'title'} -> {'references', 'web'}
+{'references', 'https'} -> {'web', 'title'}
+{'references', 'web', 'title'} -> {'cite'}
+{'cite'} -> {'references', 'web', 'title'}
+{'web', 'title', 'cite'} -> {'references'}
+{'references'} -> {'web', 'title', 'cite'}
+{'references', 'web', 'cite'} -> {'title'}
+{'title'} -> {'references', 'web', 'cite'}
+{'references', 'title', 'cite'} -> {'web'}
+{'web'} -> {'references', 'title', 'cite'}
+{'web', 'title'} -> {'references', 'cite'}
+{'references', 'web'} -> {'title', 'cite'}
+{'references', 'title'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'references', 'title'}
+{'title', 'cite'} -> {'references', 'web'}
+{'references', 'cite'} -> {'web', 'title'}
+{'references', 'web', 'title'} -> {'date'}
+{'date'} -> {'references', 'web', 'title'}
+{'web', 'date', 'title'} -> {'references'}
+{'references'} -> {'web', 'date', 'title'}
+{'references', 'date', 'web'} -> {'title'}
+{'title'} -> {'references', 'date', 'web'}
+{'references', 'date', 'title'} -> {'web'}
+{'web'} -> {'references', 'date', 'title'}
+{'web', 'title'} -> {'references', 'date'}
+{'references', 'web'} -> {'date', 'title'}
+{'references', 'title'} -> {'web', 'date'}
+{'web', 'date'} -> {'references', 'title'}
+{'date', 'title'} -> {'references', 'web'}
+{'references', 'date'} -> {'web', 'title'}
+{'web', 'www', 'title'} -> {'references'}
+{'references'} -> {'web', 'www', 'title'}
+{'references', 'www', 'web'} -> {'title'}
+{'title'} -> {'references', 'www', 'web'}
+{'references', 'www', 'title'} -> {'web'}
+{'web'} -> {'references', 'www', 'title'}
+{'references', 'web', 'title'} -> {'www'}
+{'www'} -> {'references', 'web', 'title'}
+{'web', 'www'} -> {'references', 'title'}
+{'www', 'title'} -> {'references', 'web'}
+{'web', 'title'} -> {'references', 'www'}
+{'references', 'www'} -> {'web', 'title'}
+{'references', 'web'} -> {'www', 'title'}
+{'references', 'title'} -> {'web', 'www'}
+{'references', 'url', 'title'} -> {'http'}
+{'http'} -> {'references', 'url', 'title'}
+{'url', 'http', 'title'} -> {'references'}
+{'references'} -> {'url', 'http', 'title'}
+{'references', 'url', 'http'} -> {'title'}
+{'title'} -> {'references', 'url', 'http'}
+{'references', 'http', 'title'} -> {'url'}
+{'url'} -> {'references', 'http', 'title'}
+{'url', 'title'} -> {'references', 'http'}
+{'references', 'url'} -> {'title', 'http'}
+{'references', 'title'} -> {'url', 'http'}
+{'url', 'http'} -> {'references', 'title'}
+{'http', 'title'} -> {'references', 'url'}
+{'references', 'http'} -> {'url', 'title'}
+{'references', 'http', 'title'} -> {'cite'}
+{'cite'} -> {'references', 'http', 'title'}
+{'references', 'title', 'cite'} -> {'http'}
+{'http'} -> {'references', 'title', 'cite'}
+{'http', 'title', 'cite'} -> {'references'}
+{'references'} -> {'http', 'title', 'cite'}
+{'references', 'http', 'cite'} -> {'title'}
+{'title'} -> {'references', 'http', 'cite'}
+{'references', 'title'} -> {'http', 'cite'}
+{'http', 'title'} -> {'references', 'cite'}
+{'references', 'http'} -> {'title', 'cite'}
+{'title', 'cite'} -> {'references', 'http'}
+{'references', 'cite'} -> {'title', 'http'}
+{'http', 'cite'} -> {'references', 'title'}
+{'references', 'http', 'title'} -> {'date'}
+{'date'} -> {'references', 'http', 'title'}
+{'references', 'date', 'title'} -> {'http'}
+{'http'} -> {'references', 'date', 'title'}
+{'date', 'http', 'title'} -> {'references'}
+{'references'} -> {'date', 'http', 'title'}
+{'references', 'date', 'http'} -> {'title'}
+{'title'} -> {'references', 'date', 'http'}
+{'references', 'title'} -> {'date', 'http'}
+{'http', 'title'} -> {'references', 'date'}
+{'references', 'http'} -> {'date', 'title'}
+{'date', 'title'} -> {'references', 'http'}
+{'references', 'date'} -> {'title', 'http'}
+{'date', 'http'} -> {'references', 'title'}
+{'references', 'url', 'title'} -> {'https'}
+{'https'} -> {'references', 'url', 'title'}
+{'url', 'https', 'title'} -> {'references'}
+{'references'} -> {'url', 'https', 'title'}
+{'references', 'url', 'https'} -> {'title'}
+{'title'} -> {'references', 'url', 'https'}
+{'references', 'https', 'title'} -> {'url'}
+{'url'} -> {'references', 'https', 'title'}
+{'url', 'title'} -> {'references', 'https'}
+{'references', 'url'} -> {'https', 'title'}
+{'references', 'title'} -> {'url', 'https'}
+{'url', 'https'} -> {'references', 'title'}
+{'https', 'title'} -> {'references', 'url'}
+{'references', 'https'} -> {'url', 'title'}
+{'references', 'url', 'title'} -> {'one'}
+{'one'} -> {'references', 'url', 'title'}
+{'one', 'url', 'title'} -> {'references'}
+{'references'} -> {'one', 'url', 'title'}
+{'references', 'one', 'url'} -> {'title'}
+{'title'} -> {'references', 'one', 'url'}
+{'references', 'one', 'title'} -> {'url'}
+{'url'} -> {'references', 'one', 'title'}
+{'url', 'title'} -> {'references', 'one'}
+{'references', 'url'} -> {'one', 'title'}
+{'references', 'title'} -> {'one', 'url'}
+{'one', 'url'} -> {'references', 'title'}
+{'one', 'title'} -> {'references', 'url'}
+{'references', 'one'} -> {'url', 'title'}
+{'references', 'url', 'title'} -> {'date'}
+{'date'} -> {'references', 'url', 'title'}
+{'date', 'url', 'title'} -> {'references'}
+{'references'} -> {'date', 'url', 'title'}
+{'references', 'date', 'url'} -> {'title'}
+{'title'} -> {'references', 'date', 'url'}
+{'references', 'date', 'title'} -> {'url'}
+{'url'} -> {'references', 'date', 'title'}
+{'url', 'title'} -> {'references', 'date'}
+{'references', 'url'} -> {'date', 'title'}
+{'references', 'title'} -> {'date', 'url'}
+{'date', 'url'} -> {'references', 'title'}
+{'date', 'title'} -> {'references', 'url'}
+{'references', 'date'} -> {'url', 'title'}
+{'www', 'url', 'title'} -> {'references'}
+{'references'} -> {'www', 'url', 'title'}
+{'references', 'www', 'url'} -> {'title'}
+{'title'} -> {'references', 'www', 'url'}
+{'references', 'www', 'title'} -> {'url'}
+{'url'} -> {'references', 'www', 'title'}
+{'references', 'url', 'title'} -> {'www'}
+{'www'} -> {'references', 'url', 'title'}
+{'www', 'url'} -> {'references', 'title'}
+{'www', 'title'} -> {'references', 'url'}
+{'url', 'title'} -> {'references', 'www'}
+{'references', 'www'} -> {'url', 'title'}
+{'references', 'url'} -> {'www', 'title'}
+{'references', 'title'} -> {'www', 'url'}
+{'references', 'https', 'title'} -> {'cite'}
+{'cite'} -> {'references', 'https', 'title'}
+{'references', 'title', 'cite'} -> {'https'}
+{'https'} -> {'references', 'title', 'cite'}
+{'https', 'title', 'cite'} -> {'references'}
+{'references'} -> {'https', 'title', 'cite'}
+{'references', 'https', 'cite'} -> {'title'}
+{'title'} -> {'references', 'https', 'cite'}
+{'references', 'title'} -> {'https', 'cite'}
+{'https', 'title'} -> {'references', 'cite'}
+{'references', 'https'} -> {'title', 'cite'}
+{'title', 'cite'} -> {'references', 'https'}
+{'references', 'cite'} -> {'https', 'title'}
+{'https', 'cite'} -> {'references', 'title'}
+{'references', 'https', 'title'} -> {'date'}
+{'date'} -> {'references', 'https', 'title'}
+{'references', 'date', 'title'} -> {'https'}
+{'https'} -> {'references', 'date', 'title'}
+{'date', 'https', 'title'} -> {'references'}
+{'references'} -> {'date', 'https', 'title'}
+{'references', 'date', 'https'} -> {'title'}
+{'title'} -> {'references', 'date', 'https'}
+{'references', 'title'} -> {'date', 'https'}
+{'https', 'title'} -> {'references', 'date'}
+{'references', 'https'} -> {'date', 'title'}
+{'date', 'title'} -> {'references', 'https'}
+{'references', 'date'} -> {'https', 'title'}
+{'date', 'https'} -> {'references', 'title'}
+{'references', 'www', 'title'} -> {'https'}
+{'https'} -> {'references', 'www', 'title'}
+{'www', 'https', 'title'} -> {'references'}
+{'references'} -> {'www', 'https', 'title'}
+{'references', 'www', 'https'} -> {'title'}
+{'title'} -> {'references', 'www', 'https'}
+{'references', 'https', 'title'} -> {'www'}
+{'www'} -> {'references', 'https', 'title'}
+{'www', 'title'} -> {'references', 'https'}
+{'references', 'www'} -> {'https', 'title'}
+{'references', 'title'} -> {'www', 'https'}
+{'www', 'https'} -> {'references', 'title'}
+{'https', 'title'} -> {'references', 'www'}
+{'references', 'https'} -> {'www', 'title'}
+{'references', 'one', 'title'} -> {'cite'}
+{'cite'} -> {'references', 'one', 'title'}
+{'references', 'title', 'cite'} -> {'one'}
+{'one'} -> {'references', 'title', 'cite'}
+{'one', 'title', 'cite'} -> {'references'}
+{'references'} -> {'one', 'title', 'cite'}
+{'references', 'one', 'cite'} -> {'title'}
+{'title'} -> {'references', 'one', 'cite'}
+{'references', 'title'} -> {'one', 'cite'}
+{'one', 'title'} -> {'references', 'cite'}
+{'references', 'one'} -> {'title', 'cite'}
+{'title', 'cite'} -> {'references', 'one'}
+{'references', 'cite'} -> {'one', 'title'}
+{'one', 'cite'} -> {'references', 'title'}
+{'references', 'date', 'title'} -> {'cite'}
+{'cite'} -> {'references', 'date', 'title'}
+{'references', 'title', 'cite'} -> {'date'}
+{'date'} -> {'references', 'title', 'cite'}
+{'date', 'title', 'cite'} -> {'references'}
+{'references'} -> {'date', 'title', 'cite'}
+{'references', 'date', 'cite'} -> {'title'}
+{'title'} -> {'references', 'date', 'cite'}
+{'references', 'title'} -> {'date', 'cite'}
+{'date', 'title'} -> {'references', 'cite'}
+{'references', 'date'} -> {'title', 'cite'}
+{'title', 'cite'} -> {'references', 'date'}
+{'references', 'cite'} -> {'date', 'title'}
+{'date', 'cite'} -> {'references', 'title'}
+{'references', 'www', 'title'} -> {'cite'}
+{'cite'} -> {'references', 'www', 'title'}
+{'www', 'title', 'cite'} -> {'references'}
+{'references'} -> {'www', 'title', 'cite'}
+{'references', 'www', 'cite'} -> {'title'}
+{'title'} -> {'references', 'www', 'cite'}
+{'references', 'title', 'cite'} -> {'www'}
+{'www'} -> {'references', 'title', 'cite'}
+{'www', 'title'} -> {'references', 'cite'}
+{'references', 'www'} -> {'title', 'cite'}
+{'references', 'title'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'references', 'title'}
+{'title', 'cite'} -> {'references', 'www'}
+{'references', 'cite'} -> {'www', 'title'}
+{'references', 'www', 'title'} -> {'date'}
+{'date'} -> {'references', 'www', 'title'}
+{'date', 'www', 'title'} -> {'references'}
+{'references'} -> {'date', 'www', 'title'}
+{'references', 'date', 'www'} -> {'title'}
+{'title'} -> {'references', 'date', 'www'}
+{'references', 'date', 'title'} -> {'www'}
+{'www'} -> {'references', 'date', 'title'}
+{'www', 'title'} -> {'references', 'date'}
+{'references', 'www'} -> {'date', 'title'}
+{'references', 'title'} -> {'date', 'www'}
+{'date', 'www'} -> {'references', 'title'}
+{'date', 'title'} -> {'references', 'www'}
+{'references', 'date'} -> {'www', 'title'}
+{'http', 'https', 'title'} -> {'cite'}
+{'cite'} -> {'http', 'https', 'title'}
+{'https', 'title', 'cite'} -> {'http'}
+{'http'} -> {'https', 'title', 'cite'}
+{'http', 'title', 'cite'} -> {'https'}
+{'https'} -> {'http', 'title', 'cite'}
+{'https', 'http', 'cite'} -> {'title'}
+{'title'} -> {'https', 'http', 'cite'}
+{'https', 'title'} -> {'http', 'cite'}
+{'http', 'title'} -> {'https', 'cite'}
+{'https', 'http'} -> {'title', 'cite'}
+{'title', 'cite'} -> {'https', 'http'}
+{'https', 'cite'} -> {'title', 'http'}
+{'http', 'cite'} -> {'https', 'title'}
+{'date', 'http', 'title'} -> {'cite'}
+{'cite'} -> {'date', 'http', 'title'}
+{'http', 'title', 'cite'} -> {'date'}
+{'date'} -> {'http', 'title', 'cite'}
+{'date', 'title', 'cite'} -> {'http'}
+{'http'} -> {'date', 'title', 'cite'}
+{'date', 'http', 'cite'} -> {'title'}
+{'title'} -> {'date', 'http', 'cite'}
+{'http', 'title'} -> {'date', 'cite'}
+{'date', 'title'} -> {'http', 'cite'}
+{'date', 'http'} -> {'title', 'cite'}
+{'title', 'cite'} -> {'date', 'http'}
+{'http', 'cite'} -> {'date', 'title'}
+{'date', 'cite'} -> {'title', 'http'}
+{'web', 'http', 'title'} -> {'cite'}
+{'cite'} -> {'web', 'http', 'title'}
+{'web', 'title', 'cite'} -> {'http'}
+{'http'} -> {'web', 'title', 'cite'}
+{'web', 'http', 'cite'} -> {'title'}
+{'title'} -> {'web', 'http', 'cite'}
+{'http', 'title', 'cite'} -> {'web'}
+{'web'} -> {'http', 'title', 'cite'}
+{'web', 'title'} -> {'http', 'cite'}
+{'web', 'http'} -> {'title', 'cite'}
+{'http', 'title'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'title', 'http'}
+{'title', 'cite'} -> {'web', 'http'}
+{'http', 'cite'} -> {'web', 'title'}
+{'url', 'https', 'title'} -> {'http'}
+{'http'} -> {'url', 'https', 'title'}
+{'url', 'http', 'title'} -> {'https'}
+{'https'} -> {'url', 'http', 'title'}
+{'url', 'https', 'http'} -> {'title'}
+{'title'} -> {'url', 'https', 'http'}
+{'http', 'https', 'title'} -> {'url'}
+{'url'} -> {'http', 'https', 'title'}
+{'url', 'title'} -> {'https', 'http'}
+{'url', 'https'} -> {'title', 'http'}
+{'https', 'title'} -> {'url', 'http'}
+{'url', 'http'} -> {'https', 'title'}
+{'http', 'title'} -> {'url', 'https'}
+{'https', 'http'} -> {'url', 'title'}
+{'web', 'https', 'http'} -> {'date'}
+{'date'} -> {'web', 'https', 'http'}
+{'web', 'date', 'https'} -> {'http'}
+{'http'} -> {'web', 'date', 'https'}
+{'web', 'date', 'http'} -> {'https'}
+{'https'} -> {'web', 'date', 'http'}
+{'date', 'https', 'http'} -> {'web'}
+{'web'} -> {'date', 'https', 'http'}
+{'web', 'https'} -> {'date', 'http'}
+{'web', 'http'} -> {'date', 'https'}
+{'https', 'http'} -> {'web', 'date'}
+{'web', 'date'} -> {'https', 'http'}
+{'date', 'https'} -> {'web', 'http'}
+{'date', 'http'} -> {'web', 'https'}
+{'web', 'url', 'https'} -> {'http'}
+{'http'} -> {'web', 'url', 'https'}
+{'web', 'url', 'http'} -> {'https'}
+{'https'} -> {'web', 'url', 'http'}
+{'web', 'https', 'http'} -> {'url'}
+{'url'} -> {'web', 'https', 'http'}
+{'url', 'https', 'http'} -> {'web'}
+{'web'} -> {'url', 'https', 'http'}
+{'web', 'url'} -> {'https', 'http'}
+{'web', 'https'} -> {'url', 'http'}
+{'url', 'https'} -> {'web', 'http'}
+{'web', 'http'} -> {'url', 'https'}
+{'url', 'http'} -> {'web', 'https'}
+{'https', 'http'} -> {'web', 'url'}
+{'url', 'https', 'http'} -> {'date'}
+{'date'} -> {'url', 'https', 'http'}
+{'date', 'url', 'https'} -> {'http'}
+{'http'} -> {'date', 'url', 'https'}
+{'date', 'url', 'http'} -> {'https'}
+{'https'} -> {'date', 'url', 'http'}
+{'date', 'https', 'http'} -> {'url'}
+{'url'} -> {'date', 'https', 'http'}
+{'url', 'https'} -> {'date', 'http'}
+{'url', 'http'} -> {'date', 'https'}
+{'https', 'http'} -> {'date', 'url'}
+{'date', 'url'} -> {'https', 'http'}
+{'date', 'https'} -> {'url', 'http'}
+{'date', 'http'} -> {'url', 'https'}
+{'references', 'url', 'https'} -> {'http'}
+{'http'} -> {'references', 'url', 'https'}
+{'references', 'url', 'http'} -> {'https'}
+{'https'} -> {'references', 'url', 'http'}
+{'url', 'https', 'http'} -> {'references'}
+{'references'} -> {'url', 'https', 'http'}
+{'references', 'https', 'http'} -> {'url'}
+{'url'} -> {'references', 'https', 'http'}
+{'references', 'url'} -> {'https', 'http'}
+{'url', 'https'} -> {'references', 'http'}
+{'references', 'https'} -> {'url', 'http'}
+{'url', 'http'} -> {'references', 'https'}
+{'references', 'http'} -> {'url', 'https'}
+{'https', 'http'} -> {'references', 'url'}
+{'web', 'url', 'title'} -> {'http'}
+{'http'} -> {'web', 'url', 'title'}
+{'web', 'url', 'http'} -> {'title'}
+{'title'} -> {'web', 'url', 'http'}
+{'web', 'http', 'title'} -> {'url'}
+{'url'} -> {'web', 'http', 'title'}
+{'url', 'http', 'title'} -> {'web'}
+{'web'} -> {'url', 'http', 'title'}
+{'web', 'url'} -> {'title', 'http'}
+{'web', 'title'} -> {'url', 'http'}
+{'url', 'title'} -> {'web', 'http'}
+{'web', 'http'} -> {'url', 'title'}
+{'url', 'http'} -> {'web', 'title'}
+{'http', 'title'} -> {'web', 'url'}
+{'web', 'url', 'title'} -> {'https'}
+{'https'} -> {'web', 'url', 'title'}
+{'web', 'url', 'https'} -> {'title'}
+{'title'} -> {'web', 'url', 'https'}
+{'web', 'https', 'title'} -> {'url'}
+{'url'} -> {'web', 'https', 'title'}
+{'url', 'https', 'title'} -> {'web'}
+{'web'} -> {'url', 'https', 'title'}
+{'web', 'url'} -> {'https', 'title'}
+{'web', 'title'} -> {'url', 'https'}
+{'url', 'title'} -> {'web', 'https'}
+{'web', 'https'} -> {'url', 'title'}
+{'url', 'https'} -> {'web', 'title'}
+{'https', 'title'} -> {'web', 'url'}
+{'web', 'https', 'title'} -> {'date'}
+{'date'} -> {'web', 'https', 'title'}
+{'web', 'date', 'title'} -> {'https'}
+{'https'} -> {'web', 'date', 'title'}
+{'web', 'date', 'https'} -> {'title'}
+{'title'} -> {'web', 'date', 'https'}
+{'date', 'https', 'title'} -> {'web'}
+{'web'} -> {'date', 'https', 'title'}
+{'web', 'title'} -> {'date', 'https'}
+{'web', 'https'} -> {'date', 'title'}
+{'https', 'title'} -> {'web', 'date'}
+{'web', 'date'} -> {'https', 'title'}
+{'date', 'title'} -> {'web', 'https'}
+{'date', 'https'} -> {'web', 'title'}
+{'web', 'https', 'title'} -> {'cite'}
+{'cite'} -> {'web', 'https', 'title'}
+{'web', 'title', 'cite'} -> {'https'}
+{'https'} -> {'web', 'title', 'cite'}
+{'web', 'https', 'cite'} -> {'title'}
+{'title'} -> {'web', 'https', 'cite'}
+{'https', 'title', 'cite'} -> {'web'}
+{'web'} -> {'https', 'title', 'cite'}
+{'web', 'title'} -> {'https', 'cite'}
+{'web', 'https'} -> {'title', 'cite'}
+{'https', 'title'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'https', 'title'}
+{'title', 'cite'} -> {'web', 'https'}
+{'https', 'cite'} -> {'web', 'title'}
+{'web', 'www', 'title'} -> {'https'}
+{'https'} -> {'web', 'www', 'title'}
+{'web', 'www', 'https'} -> {'title'}
+{'title'} -> {'web', 'www', 'https'}
+{'www', 'https', 'title'} -> {'web'}
+{'web'} -> {'www', 'https', 'title'}
+{'web', 'https', 'title'} -> {'www'}
+{'www'} -> {'web', 'https', 'title'}
+{'web', 'www'} -> {'https', 'title'}
+{'www', 'title'} -> {'web', 'https'}
+{'web', 'title'} -> {'www', 'https'}
+{'www', 'https'} -> {'web', 'title'}
+{'web', 'https'} -> {'www', 'title'}
+{'https', 'title'} -> {'web', 'www'}
+{'web', 'url', 'title'} -> {'date'}
+{'date'} -> {'web', 'url', 'title'}
+{'web', 'date', 'url'} -> {'title'}
+{'title'} -> {'web', 'date', 'url'}
+{'web', 'date', 'title'} -> {'url'}
+{'url'} -> {'web', 'date', 'title'}
+{'date', 'url', 'title'} -> {'web'}
+{'web'} -> {'date', 'url', 'title'}
+{'web', 'url'} -> {'date', 'title'}
+{'web', 'title'} -> {'date', 'url'}
+{'url', 'title'} -> {'web', 'date'}
+{'web', 'date'} -> {'url', 'title'}
+{'date', 'url'} -> {'web', 'title'}
+{'date', 'title'} -> {'web', 'url'}
+{'web', 'www', 'url'} -> {'title'}
+{'title'} -> {'web', 'www', 'url'}
+{'web', 'www', 'title'} -> {'url'}
+{'url'} -> {'web', 'www', 'title'}
+{'www', 'url', 'title'} -> {'web'}
+{'web'} -> {'www', 'url', 'title'}
+{'web', 'url', 'title'} -> {'www'}
+{'www'} -> {'web', 'url', 'title'}
+{'web', 'www'} -> {'url', 'title'}
+{'www', 'url'} -> {'web', 'title'}
+{'web', 'url'} -> {'www', 'title'}
+{'www', 'title'} -> {'web', 'url'}
+{'web', 'title'} -> {'www', 'url'}
+{'url', 'title'} -> {'web', 'www'}
+{'web', 'date', 'title'} -> {'cite'}
+{'cite'} -> {'web', 'date', 'title'}
+{'web', 'title', 'cite'} -> {'date'}
+{'date'} -> {'web', 'title', 'cite'}
+{'web', 'date', 'cite'} -> {'title'}
+{'title'} -> {'web', 'date', 'cite'}
+{'date', 'title', 'cite'} -> {'web'}
+{'web'} -> {'date', 'title', 'cite'}
+{'web', 'title'} -> {'date', 'cite'}
+{'web', 'date'} -> {'title', 'cite'}
+{'date', 'title'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'date', 'title'}
+{'title', 'cite'} -> {'web', 'date'}
+{'date', 'cite'} -> {'web', 'title'}
+{'web', 'www', 'title'} -> {'date'}
+{'date'} -> {'web', 'www', 'title'}
+{'web', 'date', 'www'} -> {'title'}
+{'title'} -> {'web', 'date', 'www'}
+{'date', 'www', 'title'} -> {'web'}
+{'web'} -> {'date', 'www', 'title'}
+{'web', 'date', 'title'} -> {'www'}
+{'www'} -> {'web', 'date', 'title'}
+{'web', 'www'} -> {'date', 'title'}
+{'www', 'title'} -> {'web', 'date'}
+{'web', 'title'} -> {'date', 'www'}
+{'date', 'www'} -> {'web', 'title'}
+{'web', 'date'} -> {'www', 'title'}
+{'date', 'title'} -> {'web', 'www'}
+{'web', 'www', 'title'} -> {'cite'}
+{'cite'} -> {'web', 'www', 'title'}
+{'web', 'www', 'cite'} -> {'title'}
+{'title'} -> {'web', 'www', 'cite'}
+{'www', 'title', 'cite'} -> {'web'}
+{'web'} -> {'www', 'title', 'cite'}
+{'web', 'title', 'cite'} -> {'www'}
+{'www'} -> {'web', 'title', 'cite'}
+{'web', 'www'} -> {'title', 'cite'}
+{'www', 'title'} -> {'web', 'cite'}
+{'web', 'title'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'web', 'title'}
+{'web', 'cite'} -> {'www', 'title'}
+{'title', 'cite'} -> {'web', 'www'}
+{'web', 'date', 'https'} -> {'archive'}
+{'archive'} -> {'web', 'date', 'https'}
+{'web', 'archive', 'https'} -> {'date'}
+{'date'} -> {'web', 'archive', 'https'}
+{'web', 'date', 'archive'} -> {'https'}
+{'https'} -> {'web', 'date', 'archive'}
+{'date', 'archive', 'https'} -> {'web'}
+{'web'} -> {'date', 'archive', 'https'}
+{'web', 'https'} -> {'date', 'archive'}
+{'web', 'date'} -> {'archive', 'https'}
+{'date', 'https'} -> {'web', 'archive'}
+{'web', 'archive'} -> {'date', 'https'}
+{'archive', 'https'} -> {'web', 'date'}
+{'date', 'archive'} -> {'web', 'https'}
+{'web', 'url', 'https'} -> {'archive'}
+{'archive'} -> {'web', 'url', 'https'}
+{'web', 'archive', 'url'} -> {'https'}
+{'https'} -> {'web', 'archive', 'url'}
+{'web', 'archive', 'https'} -> {'url'}
+{'url'} -> {'web', 'archive', 'https'}
+{'archive', 'url', 'https'} -> {'web'}
+{'web'} -> {'archive', 'url', 'https'}
+{'web', 'url'} -> {'archive', 'https'}
+{'web', 'https'} -> {'archive', 'url'}
+{'url', 'https'} -> {'web', 'archive'}
+{'web', 'archive'} -> {'url', 'https'}
+{'archive', 'url'} -> {'web', 'https'}
+{'archive', 'https'} -> {'web', 'url'}
+{'web', 'date', 'url'} -> {'archive'}
+{'archive'} -> {'web', 'date', 'url'}
+{'web', 'archive', 'url'} -> {'date'}
+{'date'} -> {'web', 'archive', 'url'}
+{'web', 'date', 'archive'} -> {'url'}
+{'url'} -> {'web', 'date', 'archive'}
+{'date', 'archive', 'url'} -> {'web'}
+{'web'} -> {'date', 'archive', 'url'}
+{'web', 'url'} -> {'date', 'archive'}
+{'web', 'date'} -> {'archive', 'url'}
+{'date', 'url'} -> {'web', 'archive'}
+{'web', 'archive'} -> {'date', 'url'}
+{'archive', 'url'} -> {'web', 'date'}
+{'date', 'archive'} -> {'web', 'url'}
+{'url', 'http', 'title'} -> {'date'}
+{'date'} -> {'url', 'http', 'title'}
+{'date', 'url', 'title'} -> {'http'}
+{'http'} -> {'date', 'url', 'title'}
+{'date', 'url', 'http'} -> {'title'}
+{'title'} -> {'date', 'url', 'http'}
+{'date', 'http', 'title'} -> {'url'}
+{'url'} -> {'date', 'http', 'title'}
+{'url', 'title'} -> {'date', 'http'}
+{'url', 'http'} -> {'date', 'title'}
+{'http', 'title'} -> {'date', 'url'}
+{'date', 'url'} -> {'title', 'http'}
+{'date', 'title'} -> {'url', 'http'}
+{'date', 'http'} -> {'url', 'title'}
+{'references', 'https', 'web'} -> {'cite'}
+{'cite'} -> {'references', 'https', 'web'}
+{'references', 'web', 'cite'} -> {'https'}
+{'https'} -> {'references', 'web', 'cite'}
+{'web', 'https', 'cite'} -> {'references'}
+{'references'} -> {'web', 'https', 'cite'}
+{'references', 'https', 'cite'} -> {'web'}
+{'web'} -> {'references', 'https', 'cite'}
+{'references', 'web'} -> {'https', 'cite'}
+{'web', 'https'} -> {'references', 'cite'}
+{'references', 'https'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'references', 'https'}
+{'references', 'cite'} -> {'web', 'https'}
+{'https', 'cite'} -> {'references', 'web'}
+{'web', 'date', 'https'} -> {'cite'}
+{'cite'} -> {'web', 'date', 'https'}
+{'web', 'https', 'cite'} -> {'date'}
+{'date'} -> {'web', 'https', 'cite'}
+{'web', 'date', 'cite'} -> {'https'}
+{'https'} -> {'web', 'date', 'cite'}
+{'date', 'https', 'cite'} -> {'web'}
+{'web'} -> {'date', 'https', 'cite'}
+{'web', 'https'} -> {'date', 'cite'}
+{'web', 'date'} -> {'https', 'cite'}
+{'date', 'https'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'date', 'https'}
+{'https', 'cite'} -> {'web', 'date'}
+{'date', 'cite'} -> {'web', 'https'}
+{'web', 'www', 'https'} -> {'cite'}
+{'cite'} -> {'web', 'www', 'https'}
+{'web', 'www', 'cite'} -> {'https'}
+{'https'} -> {'web', 'www', 'cite'}
+{'www', 'https', 'cite'} -> {'web'}
+{'web'} -> {'www', 'https', 'cite'}
+{'web', 'https', 'cite'} -> {'www'}
+{'www'} -> {'web', 'https', 'cite'}
+{'web', 'www'} -> {'https', 'cite'}
+{'www', 'https'} -> {'web', 'cite'}
+{'web', 'https'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'web', 'https'}
+{'web', 'cite'} -> {'www', 'https'}
+{'https', 'cite'} -> {'web', 'www'}
+{'references', 'https', 'web'} -> {'date'}
+{'date'} -> {'references', 'https', 'web'}
+{'references', 'date', 'web'} -> {'https'}
+{'https'} -> {'references', 'date', 'web'}
+{'web', 'date', 'https'} -> {'references'}
+{'references'} -> {'web', 'date', 'https'}
+{'references', 'date', 'https'} -> {'web'}
+{'web'} -> {'references', 'date', 'https'}
+{'references', 'web'} -> {'date', 'https'}
+{'web', 'https'} -> {'references', 'date'}
+{'references', 'https'} -> {'web', 'date'}
+{'web', 'date'} -> {'references', 'https'}
+{'references', 'date'} -> {'web', 'https'}
+{'date', 'https'} -> {'references', 'web'}
+{'references', 'url', 'web'} -> {'https'}
+{'https'} -> {'references', 'url', 'web'}
+{'web', 'url', 'https'} -> {'references'}
+{'references'} -> {'web', 'url', 'https'}
+{'references', 'https', 'web'} -> {'url'}
+{'url'} -> {'references', 'https', 'web'}
+{'references', 'url', 'https'} -> {'web'}
+{'web'} -> {'references', 'url', 'https'}
+{'web', 'url'} -> {'references', 'https'}
+{'references', 'web'} -> {'url', 'https'}
+{'references', 'url'} -> {'web', 'https'}
+{'web', 'https'} -> {'references', 'url'}
+{'url', 'https'} -> {'references', 'web'}
+{'references', 'https'} -> {'web', 'url'}
+{'references', 'www', 'web'} -> {'https'}
+{'https'} -> {'references', 'www', 'web'}
+{'web', 'www', 'https'} -> {'references'}
+{'references'} -> {'web', 'www', 'https'}
+{'references', 'www', 'https'} -> {'web'}
+{'web'} -> {'references', 'www', 'https'}
+{'references', 'https', 'web'} -> {'www'}
+{'www'} -> {'references', 'https', 'web'}
+{'web', 'www'} -> {'references', 'https'}
+{'references', 'www'} -> {'web', 'https'}
+{'references', 'web'} -> {'www', 'https'}
+{'www', 'https'} -> {'references', 'web'}
+{'web', 'https'} -> {'references', 'www'}
+{'references', 'https'} -> {'web', 'www'}
+{'web', 'url', 'https'} -> {'date'}
+{'date'} -> {'web', 'url', 'https'}
+{'web', 'date', 'url'} -> {'https'}
+{'https'} -> {'web', 'date', 'url'}
+{'web', 'date', 'https'} -> {'url'}
+{'url'} -> {'web', 'date', 'https'}
+{'date', 'url', 'https'} -> {'web'}
+{'web'} -> {'date', 'url', 'https'}
+{'web', 'url'} -> {'date', 'https'}
+{'web', 'https'} -> {'date', 'url'}
+{'url', 'https'} -> {'web', 'date'}
+{'web', 'date'} -> {'url', 'https'}
+{'date', 'url'} -> {'web', 'https'}
+{'date', 'https'} -> {'web', 'url'}
+{'web', 'www', 'https'} -> {'date'}
+{'date'} -> {'web', 'www', 'https'}
+{'web', 'date', 'www'} -> {'https'}
+{'https'} -> {'web', 'date', 'www'}
+{'date', 'www', 'https'} -> {'web'}
+{'web'} -> {'date', 'www', 'https'}
+{'web', 'date', 'https'} -> {'www'}
+{'www'} -> {'web', 'date', 'https'}
+{'web', 'www'} -> {'date', 'https'}
+{'www', 'https'} -> {'web', 'date'}
+{'web', 'https'} -> {'date', 'www'}
+{'date', 'www'} -> {'web', 'https'}
+{'web', 'date'} -> {'www', 'https'}
+{'date', 'https'} -> {'web', 'www'}
+{'web', 'www', 'url'} -> {'https'}
+{'https'} -> {'web', 'www', 'url'}
+{'web', 'www', 'https'} -> {'url'}
+{'url'} -> {'web', 'www', 'https'}
+{'www', 'https', 'url'} -> {'web'}
+{'web'} -> {'www', 'https', 'url'}
+{'web', 'url', 'https'} -> {'www'}
+{'www'} -> {'web', 'url', 'https'}
+{'web', 'www'} -> {'url', 'https'}
+{'www', 'url'} -> {'web', 'https'}
+{'web', 'url'} -> {'www', 'https'}
+{'www', 'https'} -> {'web', 'url'}
+{'web', 'https'} -> {'www', 'url'}
+{'url', 'https'} -> {'web', 'www'}
+{'date', 'https', 'title'} -> {'cite'}
+{'cite'} -> {'date', 'https', 'title'}
+{'https', 'title', 'cite'} -> {'date'}
+{'date'} -> {'https', 'title', 'cite'}
+{'date', 'title', 'cite'} -> {'https'}
+{'https'} -> {'date', 'title', 'cite'}
+{'date', 'https', 'cite'} -> {'title'}
+{'title'} -> {'date', 'https', 'cite'}
+{'https', 'title'} -> {'date', 'cite'}
+{'date', 'title'} -> {'https', 'cite'}
+{'date', 'https'} -> {'title', 'cite'}
+{'title', 'cite'} -> {'date', 'https'}
+{'https', 'cite'} -> {'date', 'title'}
+{'date', 'cite'} -> {'https', 'title'}
+{'references', 'date', 'https'} -> {'cite'}
+{'cite'} -> {'references', 'date', 'https'}
+{'references', 'https', 'cite'} -> {'date'}
+{'date'} -> {'references', 'https', 'cite'}
+{'references', 'date', 'cite'} -> {'https'}
+{'https'} -> {'references', 'date', 'cite'}
+{'date', 'https', 'cite'} -> {'references'}
+{'references'} -> {'date', 'https', 'cite'}
+{'references', 'https'} -> {'date', 'cite'}
+{'references', 'date'} -> {'https', 'cite'}
+{'date', 'https'} -> {'references', 'cite'}
+{'references', 'cite'} -> {'date', 'https'}
+{'https', 'cite'} -> {'references', 'date'}
+{'date', 'cite'} -> {'references', 'https'}
+{'date', 'www', 'https'} -> {'cite'}
+{'cite'} -> {'date', 'www', 'https'}
+{'www', 'https', 'cite'} -> {'date'}
+{'date'} -> {'www', 'https', 'cite'}
+{'date', 'www', 'cite'} -> {'https'}
+{'https'} -> {'date', 'www', 'cite'}
+{'date', 'https', 'cite'} -> {'www'}
+{'www'} -> {'date', 'https', 'cite'}
+{'www', 'https'} -> {'date', 'cite'}
+{'date', 'www'} -> {'https', 'cite'}
+{'date', 'https'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'date', 'https'}
+{'https', 'cite'} -> {'date', 'www'}
+{'date', 'cite'} -> {'www', 'https'}
+{'references', 'date', 'web'} -> {'cite'}
+{'cite'} -> {'references', 'date', 'web'}
+{'references', 'web', 'cite'} -> {'date'}
+{'date'} -> {'references', 'web', 'cite'}
+{'web', 'date', 'cite'} -> {'references'}
+{'references'} -> {'web', 'date', 'cite'}
+{'references', 'date', 'cite'} -> {'web'}
+{'web'} -> {'references', 'date', 'cite'}
+{'references', 'web'} -> {'date', 'cite'}
+{'web', 'date'} -> {'references', 'cite'}
+{'references', 'date'} -> {'web', 'cite'}
+{'web', 'cite'} -> {'references', 'date'}
+{'references', 'cite'} -> {'web', 'date'}
+{'date', 'cite'} -> {'references', 'web'}
+{'web', 'date', 'www'} -> {'cite'}
+{'cite'} -> {'web', 'date', 'www'}
+{'web', 'www', 'cite'} -> {'date'}
+{'date'} -> {'web', 'www', 'cite'}
+{'date', 'www', 'cite'} -> {'web'}
+{'web'} -> {'date', 'www', 'cite'}
+{'web', 'date', 'cite'} -> {'www'}
+{'www'} -> {'web', 'date', 'cite'}
+{'web', 'www'} -> {'date', 'cite'}
+{'date', 'www'} -> {'web', 'cite'}
+{'web', 'date'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'web', 'date'}
+{'web', 'cite'} -> {'date', 'www'}
+{'date', 'cite'} -> {'web', 'www'}
+{'date', 'www', 'title'} -> {'cite'}
+{'cite'} -> {'date', 'www', 'title'}
+{'www', 'title', 'cite'} -> {'date'}
+{'date'} -> {'www', 'title', 'cite'}
+{'date', 'www', 'cite'} -> {'title'}
+{'title'} -> {'date', 'www', 'cite'}
+{'date', 'title', 'cite'} -> {'www'}
+{'www'} -> {'date', 'title', 'cite'}
+{'www', 'title'} -> {'date', 'cite'}
+{'date', 'www'} -> {'title', 'cite'}
+{'date', 'title'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'date', 'title'}
+{'title', 'cite'} -> {'date', 'www'}
+{'date', 'cite'} -> {'www', 'title'}
+{'references', 'date', 'www'} -> {'cite'}
+{'cite'} -> {'references', 'date', 'www'}
+{'references', 'www', 'cite'} -> {'date'}
+{'date'} -> {'references', 'www', 'cite'}
+{'date', 'www', 'cite'} -> {'references'}
+{'references'} -> {'date', 'www', 'cite'}
+{'references', 'date', 'cite'} -> {'www'}
+{'www'} -> {'references', 'date', 'cite'}
+{'references', 'www'} -> {'date', 'cite'}
+{'date', 'www'} -> {'references', 'cite'}
+{'references', 'date'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'references', 'date'}
+{'references', 'cite'} -> {'date', 'www'}
+{'date', 'cite'} -> {'references', 'www'}
+{'one', 'https', 'title'} -> {'cite'}
+{'cite'} -> {'one', 'https', 'title'}
+{'one', 'title', 'cite'} -> {'https'}
+{'https'} -> {'one', 'title', 'cite'}
+{'https', 'title', 'cite'} -> {'one'}
+{'one'} -> {'https', 'title', 'cite'}
+{'one', 'https', 'cite'} -> {'title'}
+{'title'} -> {'one', 'https', 'cite'}
+{'one', 'title'} -> {'https', 'cite'}
+{'https', 'title'} -> {'one', 'cite'}
+{'one', 'https'} -> {'title', 'cite'}
+{'title', 'cite'} -> {'one', 'https'}
+{'one', 'cite'} -> {'https', 'title'}
+{'https', 'cite'} -> {'one', 'title'}
+{'references', 'www', 'https'} -> {'cite'}
+{'cite'} -> {'references', 'www', 'https'}
+{'references', 'www', 'cite'} -> {'https'}
+{'https'} -> {'references', 'www', 'cite'}
+{'www', 'https', 'cite'} -> {'references'}
+{'references'} -> {'www', 'https', 'cite'}
+{'references', 'https', 'cite'} -> {'www'}
+{'www'} -> {'references', 'https', 'cite'}
+{'references', 'www'} -> {'https', 'cite'}
+{'www', 'https'} -> {'references', 'cite'}
+{'references', 'https'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'references', 'https'}
+{'references', 'cite'} -> {'www', 'https'}
+{'https', 'cite'} -> {'references', 'www'}
+{'www', 'https', 'title'} -> {'cite'}
+{'cite'} -> {'www', 'https', 'title'}
+{'www', 'title', 'cite'} -> {'https'}
+{'https'} -> {'www', 'title', 'cite'}
+{'www', 'https', 'cite'} -> {'title'}
+{'title'} -> {'www', 'https', 'cite'}
+{'https', 'title', 'cite'} -> {'www'}
+{'www'} -> {'https', 'title', 'cite'}
+{'www', 'title'} -> {'https', 'cite'}
+{'www', 'https'} -> {'title', 'cite'}
+{'https', 'title'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'https', 'title'}
+{'title', 'cite'} -> {'www', 'https'}
+{'https', 'cite'} -> {'www', 'title'}
+{'web', 'url', 'http'} -> {'date'}
+{'date'} -> {'web', 'url', 'http'}
+{'web', 'date', 'url'} -> {'http'}
+{'http'} -> {'web', 'date', 'url'}
+{'web', 'date', 'http'} -> {'url'}
+{'url'} -> {'web', 'date', 'http'}
+{'date', 'url', 'http'} -> {'web'}
+{'web'} -> {'date', 'url', 'http'}
+{'web', 'url'} -> {'date', 'http'}
+{'web', 'http'} -> {'date', 'url'}
+{'url', 'http'} -> {'web', 'date'}
+{'web', 'date'} -> {'url', 'http'}
+{'date', 'url'} -> {'web', 'http'}
+{'date', 'http'} -> {'web', 'url'}
+{'references', 'url', 'http'} -> {'date'}
+{'date'} -> {'references', 'url', 'http'}
+{'references', 'date', 'url'} -> {'http'}
+{'http'} -> {'references', 'date', 'url'}
+{'date', 'url', 'http'} -> {'references'}
+{'references'} -> {'date', 'url', 'http'}
+{'references', 'date', 'http'} -> {'url'}
+{'url'} -> {'references', 'date', 'http'}
+{'references', 'url'} -> {'date', 'http'}
+{'url', 'http'} -> {'references', 'date'}
+{'references', 'http'} -> {'date', 'url'}
+{'date', 'url'} -> {'references', 'http'}
+{'references', 'date'} -> {'url', 'http'}
+{'date', 'http'} -> {'references', 'url'}
+{'date', 'url', 'https'} -> {'archive'}
+{'archive'} -> {'date', 'url', 'https'}
+{'archive', 'url', 'https'} -> {'date'}
+{'date'} -> {'archive', 'url', 'https'}
+{'date', 'archive', 'url'} -> {'https'}
+{'https'} -> {'date', 'archive', 'url'}
+{'date', 'archive', 'https'} -> {'url'}
+{'url'} -> {'date', 'archive', 'https'}
+{'url', 'https'} -> {'date', 'archive'}
+{'date', 'url'} -> {'archive', 'https'}
+{'date', 'https'} -> {'archive', 'url'}
+{'archive', 'url'} -> {'date', 'https'}
+{'archive', 'https'} -> {'date', 'url'}
+{'date', 'archive'} -> {'url', 'https'}
+{'www', 'url', 'title'} -> {'https'}
+{'https'} -> {'www', 'url', 'title'}
+{'www', 'https', 'url'} -> {'title'}
+{'title'} -> {'www', 'https', 'url'}
+{'www', 'https', 'title'} -> {'url'}
+{'url'} -> {'www', 'https', 'title'}
+{'url', 'https', 'title'} -> {'www'}
+{'www'} -> {'url', 'https', 'title'}
+{'www', 'url'} -> {'https', 'title'}
+{'www', 'title'} -> {'url', 'https'}
+{'url', 'title'} -> {'www', 'https'}
+{'www', 'https'} -> {'url', 'title'}
+{'url', 'https'} -> {'www', 'title'}
+{'https', 'title'} -> {'www', 'url'}
+{'url', 'https', 'title'} -> {'date'}
+{'date'} -> {'url', 'https', 'title'}
+{'date', 'url', 'title'} -> {'https'}
+{'https'} -> {'date', 'url', 'title'}
+{'date', 'url', 'https'} -> {'title'}
+{'title'} -> {'date', 'url', 'https'}
+{'date', 'https', 'title'} -> {'url'}
+{'url'} -> {'date', 'https', 'title'}
+{'url', 'title'} -> {'date', 'https'}
+{'url', 'https'} -> {'date', 'title'}
+{'https', 'title'} -> {'date', 'url'}
+{'date', 'url'} -> {'https', 'title'}
+{'date', 'title'} -> {'url', 'https'}
+{'date', 'https'} -> {'url', 'title'}
+{'www', 'url', 'title'} -> {'date'}
+{'date'} -> {'www', 'url', 'title'}
+{'date', 'www', 'url'} -> {'title'}
+{'title'} -> {'date', 'www', 'url'}
+{'date', 'www', 'title'} -> {'url'}
+{'url'} -> {'date', 'www', 'title'}
+{'date', 'url', 'title'} -> {'www'}
+{'www'} -> {'date', 'url', 'title'}
+{'www', 'url'} -> {'date', 'title'}
+{'www', 'title'} -> {'date', 'url'}
+{'url', 'title'} -> {'date', 'www'}
+{'date', 'www'} -> {'url', 'title'}
+{'date', 'url'} -> {'www', 'title'}
+{'date', 'title'} -> {'www', 'url'}
+{'references', 'url', 'https'} -> {'date'}
+{'date'} -> {'references', 'url', 'https'}
+{'references', 'date', 'url'} -> {'https'}
+{'https'} -> {'references', 'date', 'url'}
+{'date', 'url', 'https'} -> {'references'}
+{'references'} -> {'date', 'url', 'https'}
+{'references', 'date', 'https'} -> {'url'}
+{'url'} -> {'references', 'date', 'https'}
+{'references', 'url'} -> {'date', 'https'}
+{'url', 'https'} -> {'references', 'date'}
+{'references', 'https'} -> {'date', 'url'}
+{'date', 'url'} -> {'references', 'https'}
+{'references', 'date'} -> {'url', 'https'}
+{'date', 'https'} -> {'references', 'url'}
+{'references', 'www', 'url'} -> {'https'}
+{'https'} -> {'references', 'www', 'url'}
+{'www', 'https', 'url'} -> {'references'}
+{'references'} -> {'www', 'https', 'url'}
+{'references', 'www', 'https'} -> {'url'}
+{'url'} -> {'references', 'www', 'https'}
+{'references', 'url', 'https'} -> {'www'}
+{'www'} -> {'references', 'url', 'https'}
+{'www', 'url'} -> {'references', 'https'}
+{'references', 'www'} -> {'url', 'https'}
+{'references', 'url'} -> {'www', 'https'}
+{'www', 'https'} -> {'references', 'url'}
+{'url', 'https'} -> {'references', 'www'}
+{'references', 'https'} -> {'www', 'url'}
+{'references', 'www', 'https'} -> {'date'}
+{'date'} -> {'references', 'www', 'https'}
+{'references', 'date', 'www'} -> {'https'}
+{'https'} -> {'references', 'date', 'www'}
+{'date', 'www', 'https'} -> {'references'}
+{'references'} -> {'date', 'www', 'https'}
+{'references', 'date', 'https'} -> {'www'}
+{'www'} -> {'references', 'date', 'https'}
+{'references', 'www'} -> {'date', 'https'}
+{'www', 'https'} -> {'references', 'date'}
+{'references', 'https'} -> {'date', 'www'}
+{'date', 'www'} -> {'references', 'https'}
+{'references', 'date'} -> {'www', 'https'}
+{'date', 'https'} -> {'references', 'www'}
+{'references', 'www', 'web'} -> {'date'}
+{'date'} -> {'references', 'www', 'web'}
+{'web', 'date', 'www'} -> {'references'}
+{'references'} -> {'web', 'date', 'www'}
+{'references', 'date', 'www'} -> {'web'}
+{'web'} -> {'references', 'date', 'www'}
+{'references', 'date', 'web'} -> {'www'}
+{'www'} -> {'references', 'date', 'web'}
+{'web', 'www'} -> {'references', 'date'}
+{'references', 'www'} -> {'web', 'date'}
+{'references', 'web'} -> {'date', 'www'}
+{'date', 'www'} -> {'references', 'web'}
+{'web', 'date'} -> {'references', 'www'}
+{'references', 'date'} -> {'web', 'www'}
+{'references', 'url', 'web'} -> {'date'}
+{'date'} -> {'references', 'url', 'web'}
+{'web', 'date', 'url'} -> {'references'}
+{'references'} -> {'web', 'date', 'url'}
+{'references', 'date', 'web'} -> {'url'}
+{'url'} -> {'references', 'date', 'web'}
+{'references', 'date', 'url'} -> {'web'}
+{'web'} -> {'references', 'date', 'url'}
+{'web', 'url'} -> {'references', 'date'}
+{'references', 'web'} -> {'date', 'url'}
+{'references', 'url'} -> {'web', 'date'}
+{'web', 'date'} -> {'references', 'url'}
+{'date', 'url'} -> {'references', 'web'}
+{'references', 'date'} -> {'web', 'url'}
+{'web', 'www', 'url'} -> {'date'}
+{'date'} -> {'web', 'www', 'url'}
+{'web', 'date', 'www'} -> {'url'}
+{'url'} -> {'web', 'date', 'www'}
+{'date', 'www', 'url'} -> {'web'}
+{'web'} -> {'date', 'www', 'url'}
+{'web', 'date', 'url'} -> {'www'}
+{'www'} -> {'web', 'date', 'url'}
+{'web', 'www'} -> {'date', 'url'}
+{'www', 'url'} -> {'web', 'date'}
+{'web', 'url'} -> {'date', 'www'}
+{'date', 'www'} -> {'web', 'url'}
+{'web', 'date'} -> {'www', 'url'}
+{'date', 'url'} -> {'web', 'www'}
+{'web', 'www', 'url'} -> {'references'}
+{'references'} -> {'web', 'www', 'url'}
+{'references', 'www', 'web'} -> {'url'}
+{'url'} -> {'references', 'www', 'web'}
+{'references', 'www', 'url'} -> {'web'}
+{'web'} -> {'references', 'www', 'url'}
+{'references', 'url', 'web'} -> {'www'}
+{'www'} -> {'references', 'url', 'web'}
+{'web', 'www'} -> {'references', 'url'}
+{'www', 'url'} -> {'references', 'web'}
+{'web', 'url'} -> {'references', 'www'}
+{'references', 'www'} -> {'web', 'url'}
+{'references', 'web'} -> {'www', 'url'}
+{'references', 'url'} -> {'web', 'www'}
+{'references', 'www', 'web'} -> {'cite'}
+{'cite'} -> {'references', 'www', 'web'}
+{'web', 'www', 'cite'} -> {'references'}
+{'references'} -> {'web', 'www', 'cite'}
+{'references', 'www', 'cite'} -> {'web'}
+{'web'} -> {'references', 'www', 'cite'}
+{'references', 'web', 'cite'} -> {'www'}
+{'www'} -> {'references', 'web', 'cite'}
+{'web', 'www'} -> {'references', 'cite'}
+{'references', 'www'} -> {'web', 'cite'}
+{'references', 'web'} -> {'www', 'cite'}
+{'www', 'cite'} -> {'references', 'web'}
+{'web', 'cite'} -> {'references', 'www'}
+{'references', 'cite'} -> {'web', 'www'}
+{'references', 'url', 'web'} -> {'http'}
+{'http'} -> {'references', 'url', 'web'}
+{'web', 'url', 'http'} -> {'references'}
+{'references'} -> {'web', 'url', 'http'}
+{'references', 'web', 'http'} -> {'url'}
+{'url'} -> {'references', 'web', 'http'}
+{'references', 'url', 'http'} -> {'web'}
+{'web'} -> {'references', 'url', 'http'}
+{'web', 'url'} -> {'references', 'http'}
+{'references', 'web'} -> {'url', 'http'}
+{'references', 'url'} -> {'web', 'http'}
+{'web', 'http'} -> {'references', 'url'}
+{'url', 'http'} -> {'references', 'web'}
+{'references', 'http'} -> {'web', 'url'}
+{'www', 'https', 'url'} -> {'date'}
+{'date'} -> {'www', 'https', 'url'}
+{'date', 'www', 'url'} -> {'https'}
+{'https'} -> {'date', 'www', 'url'}
+{'date', 'www', 'https'} -> {'url'}
+{'url'} -> {'date', 'www', 'https'}
+{'date', 'url', 'https'} -> {'www'}
+{'www'} -> {'date', 'url', 'https'}
+{'www', 'url'} -> {'date', 'https'}
+{'www', 'https'} -> {'date', 'url'}
+{'url', 'https'} -> {'date', 'www'}
+{'date', 'www'} -> {'url', 'https'}
+{'date', 'url'} -> {'www', 'https'}
+{'date', 'https'} -> {'www', 'url'}
+{'references', 'www', 'url'} -> {'date'}
+{'date'} -> {'references', 'www', 'url'}
+{'date', 'www', 'url'} -> {'references'}
+{'references'} -> {'date', 'www', 'url'}
+{'references', 'date', 'www'} -> {'url'}
+{'url'} -> {'references', 'date', 'www'}
+{'references', 'date', 'url'} -> {'www'}
+{'www'} -> {'references', 'date', 'url'}
+{'www', 'url'} -> {'references', 'date'}
+{'references', 'www'} -> {'date', 'url'}
+{'references', 'url'} -> {'date', 'www'}
+{'date', 'www'} -> {'references', 'url'}
+{'date', 'url'} -> {'references', 'www'}
+{'references', 'date'} -> {'www', 'url'}
+{'www', 'https', 'title'} -> {'date'}
+{'date'} -> {'www', 'https', 'title'}
+{'date', 'www', 'title'} -> {'https'}
+{'https'} -> {'date', 'www', 'title'}
+{'date', 'www', 'https'} -> {'title'}
+{'title'} -> {'date', 'www', 'https'}
+{'date', 'https', 'title'} -> {'www'}
+{'www'} -> {'date', 'https', 'title'}
+{'www', 'title'} -> {'date', 'https'}
+{'www', 'https'} -> {'date', 'title'}
+{'https', 'title'} -> {'date', 'www'}
+{'date', 'www'} -> {'https', 'title'}
+{'date', 'title'} -> {'www', 'https'}
+{'date', 'https'} -> {'www', 'title'}
